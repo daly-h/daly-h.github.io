@@ -17,7 +17,12 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Teaching: 
+    - Sustainable Energy: "susten"
+    - Energy Systems Modelling: "ESM"
+    - Intro. to Energy Engineering: "EnEn"
+    - Research supervision: "supervision"
+  Author's home: "https://www.hannahdaly.ie"
 
 # --- Logo --- #
 
