@@ -22,7 +22,6 @@ navbar-links:
     - Energy Systems Modelling: "ESM"
     - Intro. to Energy Engineering: "EnEn"
     - Research supervision: "supervision"
-  Author's home: "https://www.hannahdaly.ie"
   Blog: "/blog/index.html"
 
 # --- Logo --- #
@@ -79,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://daly-h.github.io"
+url-pretty: "www.hannahdaly.ie"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
