@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Hannah E. Daly
+title: Dr. Hannah E. Daly
 
 # Short description of your site
 description: Personal website of Dr. Hannah Daly, University College Cork
@@ -13,10 +13,9 @@ author: Hannah Daly
 
 navbar-links:
   About Me: "aboutme"
-  Research: "Research"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Research: 
+    - Projects: "Research"
+    - Publications: "pubs"
   Teaching: 
     - Sustainable Energy: "susten"
     - Energy Systems Modelling: "ESM"
