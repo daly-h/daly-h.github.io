@@ -14,13 +14,13 @@ author: Hannah Daly
 navbar-links:
   About Me: "aboutme"
   Research: 
-    - Projects: "Research"
-    - Publications: "pubs"
+    - Projects: "/pages/Research"
+    - Publications: "/pages/pubs"
   Teaching: 
-    - Sustainable Energy: "susten"
-    - Energy Systems Modelling: "ESM"
-    - Intro. to Energy Engineering: "EnEn"
-    - Research supervision: "supervision"
+    - Sustainable Energy: "/pages/susten"
+    - Energy Systems Modelling: "/pages/ESM"
+    - Intro. to Energy Engineering: "/pages/EnEn"
+    - Research supervision: "/pages/supervision"
   Blog: "/blog/index.html"
 
 # --- Logo --- #
