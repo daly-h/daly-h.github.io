@@ -12,7 +12,7 @@ author: Hannah Daly
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "/pages/aboutme"
   Research: 
     - Projects: "/pages/Research"
     - Publications: "/pages/pubs"
