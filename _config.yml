@@ -12,10 +12,10 @@ author: Hannah Daly
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "/pages/aboutme"
-  Research: "/pages/Research"
-  Publications: "/pages/pubs"
-  Teaching: "/pages/Teaching"
+  About Me: "aboutme"
+  Research: "Research"
+  Publications: "pubs"
+  Teaching: "Teaching"
   Blog: "/blog/index.html"
 
 # --- Logo --- #
