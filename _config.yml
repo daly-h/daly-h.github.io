@@ -13,10 +13,9 @@ author: Hannah Daly
 
 navbar-links:
   About Me: "/pages/aboutme"
-  Research: "/pages/research"
-    - Projects: "/pages/Research"
-    - Publications: "/pages/pubs"
-  Teaching: "/pages/teaching"
+  Research: "/pages/Research"
+  Publications: "/pages/pubs"
+  Teaching: 
     - Sustainable Energy: "/pages/susten"
     - Energy Systems Modelling: "/pages/ESM"
     - Intro. to Energy Engineering: "/pages/EnEn"
