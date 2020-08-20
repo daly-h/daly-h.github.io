@@ -13,10 +13,10 @@ author: Hannah Daly
 
 navbar-links:
   About Me: "/pages/aboutme"
-  Research: 
+  Research: "/pages/research"
     - Projects: "/pages/Research"
     - Publications: "/pages/pubs"
-  Teaching: 
+  Teaching: "/pages/teaching"
     - Sustainable Energy: "/pages/susten"
     - Energy Systems Modelling: "/pages/ESM"
     - Intro. to Energy Engineering: "/pages/EnEn"
@@ -125,7 +125,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-175882501-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -141,7 +141,7 @@ footer-link-col: "#404040"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+#disqus: "hannahdaly-ie"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
