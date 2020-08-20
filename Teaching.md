@@ -8,7 +8,7 @@ subtitle:
 I lecture to [undergraduate](https://www.ucc.ie/en/energyeng/undergrad/) and [postgraduate](https://www.ucc.ie/en/ckr26/) engineering students in University College Cork's School of Engineering. I also contribute to the cross-disciplinary [Higher Diploma in Sustainability in Enterprise](https://www.ucc.ie/en/study/postgrad/taughtcourses/hci/hci4/).
 
 - [Sustainable Energy](susten.md)
-- [Energy Systems Modelling](esm.md)
+- [Energy Systems Modelling](ESM.md)
 - [Introduction to Energy Engineering](EnEn.md)
 
 
