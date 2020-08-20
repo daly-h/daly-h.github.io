@@ -15,11 +15,7 @@ navbar-links:
   About Me: "/pages/aboutme"
   Research: "/pages/Research"
   Publications: "/pages/pubs"
-  Teaching: 
-    - Sustainable Energy: "/pages/susten"
-    - Energy Systems Modelling: "/pages/ESM"
-    - Intro. to Energy Engineering: "/pages/EnEn"
-    - Research supervision: "/pages/supervision"
+  Teaching: "/pages/Teaching"
   Blog: "/blog/index.html"
 
 # --- Logo --- #
