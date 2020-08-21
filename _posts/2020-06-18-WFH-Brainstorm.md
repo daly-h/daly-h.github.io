@@ -5,7 +5,7 @@ subtitle: New research shows remote working, reduced car commuting and effective
 cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
-share-img: /assets/img/lightbulb.png
+share-img: /assets/img/lightsquare.png
 tags: [COVID, transport, climate]
 ---
 *By Frank Crowley, Hannah Daly, Justin Doran and Geraldine Ryan, UCC*
