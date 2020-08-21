@@ -12,7 +12,6 @@ author: Hannah Daly
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Research: "Research"
   Publications: "pubs"
   Teaching: "Teaching"
