@@ -71,7 +71,13 @@ share-links-active:
   vk: false
 
 paginate_path: "/blog/page:num/"
+plugins:
+  - jekyll-gist
 
+source 'https://rubygems.org'
+group :jekyll_plugins do
+    gem 'github-pages'
+end
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "www.hannahdaly.ie"
