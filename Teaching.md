@@ -13,10 +13,13 @@ I lecture to [undergraduate](https://www.ucc.ie/en/energyeng/undergrad/) and [po
 
 
 ## Research supervision
-#### Current research students
-- [Vera O'Riordan](https://www.marei.ie/people/vera-oriordan/)
-- [Jason McGuire](https://www.marei.ie/people/jason-mc-guire/)
-- Ankita Gaur
+#### Current PhD students
+- [Vera O'Riordan, UCC](https://www.marei.ie/people/vera-oriordan/)
+- [Jason McGuire, UCC](https://www.marei.ie/people/jason-mc-guire/)
+- Ankita Gaur, UCC
+
+#### Former PhD students
+- [Xuebing Wang, UCL](https://discovery.ucl.ac.uk/id/eprint/10053998/)
 
 #### Other research supervision
-I supervise Masters research dissertations, final year projects and interns in my field of research, and I'm open to being contacted for enquiries.
+I supervise Masters research dissertations, final year projects and interns in my field of research, and I'm open to being [contacted](mailto:h.daly@ucc.ie) for enquiries.
