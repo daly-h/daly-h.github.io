@@ -14,11 +14,11 @@ Introduction to the science of energy engineering. Energy consumption, energy su
 
 #### Learning Outcomes:
 On successful completion of this module, students should be able to:
-    - Explain the scope of energy engineering as a discipline and career path.
-    - Quantify the energy powering our vehicles and heating our buildings.
-    - Quantify the environmental impacts associated with energy consumption in power, heat and transport.
-    - Quantify how much energy is available from different renewable sources.
-    - Relate professional engineering practice to the ethics and ethos of the profession and the role of engineering in society, through engagement with complex and wicked problems.
-    - Describe energy conversion in a renewable energy device.
-    - Use basic principles of operation to design an energy conversion subsytem.
-    - Carry out a Risk Assessement.
+    * Explain the scope of energy engineering as a discipline and career path.
+    * Quantify the energy powering our vehicles and heating our buildings.
+    * Quantify the environmental impacts associated with energy consumption in power, heat and transport.
+    * Quantify how much energy is available from different renewable sources.
+    * Relate professional engineering practice to the ethics and ethos of the profession and the role of engineering in society, through engagement with complex and wicked problems.
+    * Describe energy conversion in a renewable energy device.
+    * Use basic principles of operation to design an energy conversion subsytem.
+    * Carry out a Risk Assessement.
