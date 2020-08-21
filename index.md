@@ -8,7 +8,5 @@ I am a Lecturer (above the merit bar) in Sustainable Energy and Energy Systems M
 
 I'm affiliated with [MaREI](www.marei.ie), the SFI Centre for Climate, Energy and the Marine and work closely with UCC's Energy Policy and Modelling Group. You can find out more about my [Teaching](/pages/teaching/) and [Research](/pages/research) on this website.
 
-
-
-### CV
+### Career profile
 For a full career profile, you can download a PDF copy of [My CV](/pages/Hannah E Daly CV Aug2020.pdf).
