@@ -1,0 +1,12 @@
+---
+layout: post
+title: Inside Politics Podcast: Can we reduce carbon emissions by 7% per year?
+subtitle: The energy system could decarbonise at 7% annually but requires far-reaching action
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [climate, audio, policy]
+---
+I spoke with Hugh Linehan, Irish Times Arts & Culture editor, on the Irish Times Inside Politics podcast to discuss where the 7% annual decarbonisation target came from, and if it's achievable.
+
+You can listen to the podcast [here](https://www.irishtimes.com/news/politics/inside-politics/inside-politics-can-we-reduce-carbon-emissions-by-7-per-year-1.4241738).
