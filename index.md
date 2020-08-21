@@ -19,9 +19,4 @@ I'm affiliated with [MaREI](www.marei.ie), the SFI Centre for Climate, Energy an
 
 For a full career profile, you can download a PDF copy of [My CV](/pages/Hannah E Daly CV Aug2020.pdf).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It is with shock and utter disappointment that we learn of this ridiculous golf dinner this morning and the attendance of politicians. Everyone has worked incredibly hard to follow the guidelines. Schools everywhere working to get our kids back safely. Beyond irresponsible.</p>&mdash; Jennifer Carroll MacNeill TD (@CarrollJennifer) <a href="https://twitter.com/CarrollJennifer/status/1296762914922270726?ref_src=twsrc%5Etfw">August 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-### Twitter feed
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
-</div>
+ 
