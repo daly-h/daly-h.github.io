@@ -15,4 +15,4 @@ I am a Lecturer (above the merit bar) in Sustainable Energy and Energy Systems M
 
 *2009-2012:* Ph.D. with the Energy Policy and Modelling Group at University College Cork, under the supervision of [Professor Brian O'Gallachoir](http://publish.ucc.ie/researchprofiles/D012/bogallachoir). Ph.D. thesis: "Transport energy demand: techno-economic modelling and scenarios for Irish climate policy" (download thesis [here](https://cora.ucc.ie/handle/10468/1552)).
 
-For a full career profile, you can download a PDF copy of [My CV](/pages/Hannah E Daly CV Aug2020.pdf).
+For a full career profile, you can download a PDF copy of [My CV](cv.pdf).
