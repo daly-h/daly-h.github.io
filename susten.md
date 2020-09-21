@@ -7,16 +7,17 @@ subtitle: NE3003/CE3016/NE6013
 Semester 1
 
 #### Module Objective:
-To introduce the concept of sustainable energy and the interaction between cost competitiveness, security of supply and environmental responsibility. To make students aware of the link between energy and the environment, with a particular focus on climate change, air pollution and energy access. To provide students with the basic tools to assess energy trends and their policy implications. Introduce the topics of energy policy and economics. Introduce energy efficiency and renewable energy sources and technologies.
+Energy is at the heart of modern civilization: exploiting modern energy sources has been one of the main factors behind humanity's incredible leaps in health and well-being since the Industrial Revolution. However, exploiting fossil fuels for electricity, heat and transport has also been the main source of human-enduced climate change - the single greatest challenge we face. To address this, many countries including Ireland are making commitments to achieving "net zero" emissions energy systems by 2050, where any carbon dioxide emitted from fossil fuels will be balanced by some form of emissions removal. Achieving this target, while also ensuring a functioning, secure and affordable supply of energy, requires that we fully re-think how we make and use fuels.
 
-#### Module Content:
-Definition of sustainable energy. Global and regional energy trends in terms of fuel supply and sectoral consumption. Electrical, transport and thermal energy consumption. Energy end use. Pillars of sustainable energy policy. Environmental impacts of energy. Climate Change. Transboundary gas emissions. Security of energy supply. Cost competitiveness. Policy instruments. Energy efficiency indicators. Socio-economic assessment of energy supply systems. Renewable energy market development.
+The objective of this module is to introduce the concept of sustainable energy and how environmental responsibility interacts with energy security and affordability. There will be a particular focus on the science and solutions to climate change, the trade-offs and cobenefits for air pollution, energy security and energy poverty. We will review different policy instruments used to make energy more sustainable, and introduce policy frameworks in Ireland and Europe for achieving long-term decarbonisation targets.
+
+
 
 #### Learning Outcomes:
 On successful completion of this module, students should be able to:
-    - Analyse energy supply and consumption trends.
-    - Discuss the impact of policy decisions on energy trends.
-    - Quantify energy related environmental impacts, focussing on climate change.
-    - Apply knowledge of energy to quantify impacts on energy trends.
-    - Compare renewable energy environmental impacts with fossil fuels.
-    - Explain different facets of security of energy supply.
+- Analyse energy supply and consumption trends.
+- Discuss the impact of policy decisions on energy trends.
+- Quantify energy related environmental impacts, focussing on climate change.
+- Apply knowledge of energy to quantify impacts on energy trends
+- Compare renewable energy environmental impacts with fossil fuels.
+- Explain different facets of security of energy supply.
