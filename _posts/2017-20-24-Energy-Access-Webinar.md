@@ -8,6 +8,7 @@ thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
 tags: [energyaccess, webinar]
 ---
+
 #### Webinar with Laura Cozzi and Molly Walton, IEA, on the 2017 Energy Access Outlook
 
 
