@@ -9,9 +9,9 @@ I lecture to [undergraduate](https://www.ucc.ie/en/energyeng/undergrad/) and [po
 Given the move to online teaching as a result of the COVID-19 pandemic in 2020, I am endeavouring to put much of my teaching material online.
 
 #### Undergraduate and postgraduate modules
-- [Sustainable Energy](SustEn.md)
-- [Energy Systems Modelling](ESM.md)
-- [Introduction to Energy Engineering](EnEn.md)
+- [Sustainable Energy](sustainableenergy.md)
+- [Energy Systems Modelling](esm.md)
+- [Introduction to Energy Engineering](enen.md)
 
 
 ## Research supervision
