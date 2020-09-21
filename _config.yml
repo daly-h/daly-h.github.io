@@ -12,9 +12,9 @@ author: Hannah Daly
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research: "Research"
+  Research: "research"
   Publications: "pubs"
-  Teaching: "Teaching"
+  Teaching: "teaching"
   Blog: "/blog/index.html"
 
 # --- Logo --- #
