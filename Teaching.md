@@ -6,7 +6,7 @@ subtitle:
 
 ## Lecturing
 I lecture to [undergraduate](https://www.ucc.ie/en/energyeng/undergrad/) and [postgraduate](https://www.ucc.ie/en/ckr26/) engineering students in University College Cork's School of Engineering. I also contribute to the cross-disciplinary [Higher Diploma in Sustainability in Enterprise](https://www.ucc.ie/en/study/postgrad/taughtcourses/hci/hci4/).
-Given the move to online teaching as a result of the COVID-19 pandemic, I am endeavoring to put much of my teaching material online. 
+Given the move to online teaching as a result of the COVID-19 pandemic in 2020, I am endeavouring to put much of my teaching material online.
 
 #### Undergraduate and postgraduate modules
 - [Sustainable Energy](SustEn.md)
