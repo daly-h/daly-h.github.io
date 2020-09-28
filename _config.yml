@@ -13,9 +13,8 @@ author: Hannah Daly
 
 navbar-links:
   Research: "research"
-  Publications: "pubs"
+  Publications: "publications"
   Teaching: "teaching"
-  Test: "test"
   Blog: "/blog/index.html"
 
 # --- Logo --- #
