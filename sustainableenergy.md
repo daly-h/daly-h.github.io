@@ -21,3 +21,6 @@ On successful completion of this module, students should be able to:
 - Apply knowledge of energy to quantify impacts on energy trends
 - Compare renewable energy environmental impacts with fossil fuels.
 - Explain different facets of security of energy supply.
+
+#### Lectures
+I am posting recorded lectures for the Autumn 2020 module on YouTube at this [Channel](https://www.youtube.com/playlist?list=PLxTFLzYie40pndQG7QBVczKNZST3dGenQ). 
