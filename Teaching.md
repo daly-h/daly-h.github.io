@@ -12,6 +12,7 @@ Given the move to online teaching as a result of the COVID-19 pandemic in 2020, 
 - [Sustainable Energy](/sustainableenergy/)
 - [Energy Systems Modelling](/esm/)
 - [Introduction to Energy Engineering](/enen/)
+- [Test](/test/)
 
 
 ## Research supervision
