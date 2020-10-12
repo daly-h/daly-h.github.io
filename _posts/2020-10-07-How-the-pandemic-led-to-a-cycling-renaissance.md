@@ -10,6 +10,7 @@ tags: [policy, media, climate]
 ---
 
  **Dr. Hannah Daly, Vera O'Riordan, Isaac O'Sullivan Hourihan, University College Cork**
+**[Published on RTE Brainstorm](https://www.rte.ie/brainstorm/2020/1007/1169989-cycling-renaissance-covid-19-pandemic-ireland/)**
 
 Prior to the coronavirus pandemic, [transport was the fastest-growing source of carbon dioxide (CO2) emissions in Ireland](http://www.seai.ie/data-and-insights/seai-statistics/key-statistics/co2/). There are signs that the &quot;green recovery&quot; could lead to a cycling renaissance in Ireland – but is this a false dawn?
 
