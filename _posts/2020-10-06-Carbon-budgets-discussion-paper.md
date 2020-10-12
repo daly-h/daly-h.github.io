@@ -4,8 +4,8 @@ title: The role of carbon budgets in translating the Paris Agreement into nation
 subtitle: MaREI Discussion Paper
 cover-img: /assets/img/lightbulb.png
 Comments: true
-thumbnail-img: /assets/img/lightsquare.png
-share-img: /assets/img/lightsquare.png
+thumbnail-img: /assets/img/bike.jpg
+share-img: /assets/img/bike.jpg
 tags: [policy, carbon budgets, climate]
 ---
 *Jason Mc Guire, Fionn Rogan, Hannah Daly, James Glynn, Olexandr Balyk and Brian O'Gallachoir*
