@@ -4,8 +4,8 @@ title: The green recovery has two wheels – or a &#39;false dawn&#39;?
 subtitle: Off-peak cycling rates in Dublin City Centre increased by 45% during the lockdown
 cover-img: /assets/img/lightbulb.png
 Comments: true
-thumbnail-img: /assets/img/lightsquare.png
-share-img: /assets/img/lightsquare.png
+thumbnail-img: /assets/img/bike.jpg
+share-img: /assets/img/bike.jpg
 tags: [policy, media, climate]
 ---
 
