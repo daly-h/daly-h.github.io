@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The *World Energy Outlook* for a net-zero emissions energy system by 2050 – what insights for Ireland?
+title: The World Energy Outlook for a net-zero emissions energy system by 2050 – what insights for Ireland?
 subtitle: A new focus on behaviour change and low-carbon fuels is needed to meet the target
 cover-img: /assets/img/lightbulb.png
 Comments: true
@@ -9,7 +9,7 @@ share-img: /assets/img/lightsquare.png
 tags: [policy, climate]
 ---
 
-The 2020 edition of the [World Energy Outlook](https://www.iea.org/reports/world-energy-outlook-2020) (WEO) was launched this week, a report which is widely regarded as the most authoritative source on the outlook for the global energy system, widely read by policymakers, industry figures and researchers (and for full disclosure, I was a proud WEO team member from 2015-2018).
+The 2020 edition of the International Energy Agency's [World Energy Outlook](https://www.iea.org/reports/world-energy-outlook-2020) was launched today, a report which is widely regarded as the most authoritative source on the outlook for the global energy system, widely read by policymakers, industry figures and researchers (and for full disclosure, I was a proud WEO team member from 2015-2018).
 
 The report contains a number of core scenarios every year – the Stated Policies Scenario (what would happen if all policy commitments were enacted fully?) and the Sustainable Development Scenario (how can the global energy system reach the goals of the Paris Agreement, while meeting other sustainable development goals?) and typically a number of other scenarios, or “cases”, are used to explore other critical issues. This year, for the first time, the Outlook explored the question of what near-term changes are needed in the next decade to reach a [target of a global net-zero emissions energy system 2050](https://www.iea.org/reports/world-energy-outlook-2020/achieving-net-zero-emissions-by-2050#abstract) – called the NZE2050 case.
 
