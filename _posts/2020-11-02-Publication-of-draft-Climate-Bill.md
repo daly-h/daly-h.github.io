@@ -9,7 +9,7 @@ share-img: /assets/img/lightsquare.png
 tags: [policy, climate, carbon]
 ---
 
-My full comments can be found [here](hannahdaly.ie/draft-climate-bill-HannahDaly-Nov2020.pdf).
+My full comments can be found [here](www.hannahdaly.ie/draft-climate-bill-HannahDaly-Nov2020.pdf).
 
 *My comments were featured in interviews in the [Irish Examiner](https://www.irishexaminer.com/news/arid-40061198.html) and the [Sunday Business Post](https://www.businesspost.ie/analysis-opinion/ireland-on-road-to-net-zero-carbon-emissions-by-2050-af909075).*
 
