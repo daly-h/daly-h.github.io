@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Submission to Joint Oireachtas Committee on Climate Action on pre-legislative scrutiny of the draft Climate Action bill
-subtitle: Comments on the publication of the draft Climate Bill, October 7th 2020
+subtitle: Comments on the publication of the draft Climate Bill
 cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
