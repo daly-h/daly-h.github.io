@@ -9,10 +9,10 @@ share-img: /assets/img/lightsquare.png
 tags: [policy, climate, carbon]
 ---
 
-My full comments can be found [here](https://hannahdaly.ie/draft-climate-bill-HannahDaly-Nov2020.pdf)(pdf).
+My full comments can be found [here](https://hannahdaly.ie/draft-climate-bill-HannahDaly-Nov2020.pdf) (pdf).
 
 
-Technical annex for GWP* for Ireland [here](https://hannahdaly.ie/warming-contribution-from-agricultural-methane-in-Ireland-SI.xlsx)
+Technical annex for GWP* for Ireland [here](https://hannahdaly.ie/warming-contribution-from-agricultural-methane-in-Ireland-SI.xlsx) (Excel download).
 
 
 In summary:
