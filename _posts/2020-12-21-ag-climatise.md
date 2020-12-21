@@ -2,10 +2,10 @@
 layout: post
 title:  New 'Ag Climatise' strategy for agriculture does not go far enough
 subtitle: Stabilised methane emissions is not 'climate neutral'
-cover-img: /assets/img/cow.png
+cover-img: /assets/img/cow.jpg
 Comments: true
-thumbnail-img: /assets/img/cow.png
-share-img: /assets/img/cow.png
+thumbnail-img: /assets/img/cow.jpg
+share-img: /assets/img/cow.jpg
 tags: [policy, climate, carbon, agriculture, GWP]
 ---
 
