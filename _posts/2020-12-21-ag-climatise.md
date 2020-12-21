@@ -29,8 +29,7 @@ Such a lack of ambition for emissions reductions in agriculture will mean other 
 
 The strategy does admit that it is not consistent with the Programme for Government target of halving overall greenhouse gases by 2030, a 7% annual decline in emissions, and therefore will need to be a living document.
 
-## Why publish wholly inadequate strategy
-But this begs the question: Why publish a wholly inadequate strategy for the agriculture sector, which tells farmers that technological fixes will be enough to make their sector climate neutral?
+But this begs the question: Why publish a strategy for the agriculture sector not compatible with the Programme for Government target, which tells farmers that their sector is climate neutral?
 
 In its 2020 Annual Review, the Climate Change Advisory Council pointed out that increasing beef and dairy production would not benefit Irish society when we take into account the resulting pollution. The Environmental Protection Agency’s recent “State of the Environment” report highlighted the huge environmental pressures that arise from our agricultural system. Further, the Council believes that the risk of carbon leakage does not vindicate our strategy for agriculture, even though it is commonly used to justify continued expansion.
 
