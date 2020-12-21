@@ -9,7 +9,7 @@ share-img: /assets/img/cow.png
 tags: [policy, climate, carbon, agriculture, GWP]
 ---
 
-* My analysis of the new Department of Agriculture's [Ag Climatise] strategy(https://hannahdaly.ie/methane-warming.pdf) (pdf).
+*My analysis of the new Department of Agriculture's [Ag Climatise](https://www.gov.ie/en/press-release/a8823-publication-of-ag-climatise-national-climate-air-roadmap-for-the-agriculture-sector/)*
 
 Last week, the Department of Agriculture released 'Ag Climatise', a new strategy claiming to set out a pathway for “climate neutral” agriculture. On the surface this seems like a deeply ambitious policy. But it clearly is not.
 
@@ -18,7 +18,7 @@ The agriculture sector is responsible for 35% of Ireland’s greenhouse gas emis
 Surely the government’s new “roadmap for climate neutrality” for agriculture will at a minimum reverse this recent rise in emissions?
 It doesn’t.
 
-##Far from consistent with the Programme for Government climate target
+## Far from consistent with the Programme for Government climate target
 
 Ag Climatise seeks to merely stabilise methane emissions. In other words, at some undefined point, methane emissions are to stop growing further. Small net reductions in the sector’s overall emissions are planned by reducing emissions of nitrogen, which is responsible for around a third of emissions from the sector, by around one-fifth.
 This means the strategy is not only far from consistent with the Programme for Government target of halving overall greenhouse gases by 2030, but appears to be actually less ambitious than the previous government’s Climate Action Plan, which targets a 10-15% reduction in emissions from agriculture by 2030.
@@ -29,7 +29,7 @@ Such a lack of ambition for emissions reductions in agriculture will mean other 
 
 The strategy does admit that it is not consistent with the Programme for Government target of halving overall greenhouse gases by 2030, a 7% annual decline in emissions, and therefore will need to be a living document.
 
-##Why publish wholly inadequate strategy
+## Why publish wholly inadequate strategy
 But this begs the question: Why publish a wholly inadequate strategy for the agriculture sector, which tells farmers that technological fixes will be enough to make their sector climate neutral?
 
 In its 2020 Annual Review, the Climate Change Advisory Council pointed out that increasing beef and dairy production would not benefit Irish society when we take into account the resulting pollution. The Environmental Protection Agency’s recent “State of the Environment” report highlighted the huge environmental pressures that arise from our agricultural system. Further, the Council believes that the risk of carbon leakage does not vindicate our strategy for agriculture, even though it is commonly used to justify continued expansion.
@@ -38,8 +38,9 @@ This week also saw the publication of the United Nations Environment Programme�
 
 If Ireland relay wants to pursue an ambitious climate target and meaningfully transform into a sustainable society, we need to move away from long-term pledges and start making realistic and truly transformative actions across all sectors.
 
-##Ireland’s agricultural system is unsustainable
-A newly-proposed accounting metric for greenhouse gas emissions known as GWP* is being used to claim that stabilised methane emissions are “climate neutral”, but there is no global scientific or political consensus that this is the correct interpretation.
+## Ireland’s agricultural system is unsustainable
+
+A newly-proposed accounting metric for greenhouse gas emissions known as GWP\* is being used to claim that stabilised methane emissions are “climate neutral”, but there is no global scientific or political consensus that this is the correct interpretation. With rising methane emissions, which is the case globally and in Ireland, this metric shows that we are under-counting the warming impact of methane. However, for falling methane emissions, the opposite is the case.
 
 There are no easy solutions or get-out-of-jail free cards. Ireland’s agricultural system, which relies on producing the most carbon-intensive foods, is highly unsustainable. To meet the goals of the Paris Agreement, which was adopted five years ago, and to avert the worst impacts of climate change, deep cuts in global methane emissions are required, which will likely require making diets more sustainable as well as transforming food production systems.
 
