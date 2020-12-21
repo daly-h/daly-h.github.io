@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  New 'Ag Climatise' strategy for agriculture does not go far enough
-subtitle: Stabilised methane emissions is not 'climate neutral'
-cover-img: /assets/img/cow.jpg
+subtitle: A stabilised methane emissions pathway is not 'climate neutral'
+cover-img: /assets/img/hills.jpg
 Comments: true
-thumbnail-img: /assets/img/cow.jpg
+thumbnail-img: /assets/img/cow-s.png
 share-img: /assets/img/cow.jpg
 tags: [policy, climate, carbon, agriculture, GWP]
 ---
 
-*My analysis of the new Department of Agriculture's [Ag Climatise](https://www.gov.ie/en/press-release/a8823-publication-of-ag-climatise-national-climate-air-roadmap-for-the-agriculture-sector/)*
+*My analysis of the new Department of Agriculture's [Ag Climatise](https://www.gov.ie/en/press-release/a8823-publication-of-ag-climatise-national-climate-air-roadmap-for-the-agriculture-sector/) roadmap for the sector*
 
-Last week, the Department of Agriculture released 'Ag Climatise', a new strategy claiming to set out a pathway for “climate neutral” agriculture. On the surface this seems like a deeply ambitious policy. But it clearly is not.
+Last week, the Department of Agriculture released 'Ag Climatise', a new strategy claiming to set out a pathway for “climate neutral” agriculture. On the surface this seems like a deeply ambitious policy. But it clearly is not consistent with the Paris Agreement.
 
 The agriculture sector is responsible for 35% of Ireland’s greenhouse gas emissions. Cows emit methane, a potent greenhouse gas with a very strong global warming impact. Globally, methane from agriculture and fossil fuels has been responsible for the two-fifths of the one degree of global temperature rise that has already taken place as a result of human activities. Ireland is the fourth highest per-capita emitter of methane from agriculture in the world, and emissions are 15% higher since 2011, driven by dairy output and the abolition of milk quotas.
 
