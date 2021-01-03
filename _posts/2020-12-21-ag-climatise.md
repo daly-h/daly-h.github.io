@@ -9,7 +9,7 @@ share-img: /assets/img/cow.jpg
 tags: [policy, climate, carbon, agriculture, GWP]
 ---
 
-*My analysis of the new Department of Agriculture's [Ag Climatise](https://www.gov.ie/en/press-release/a8823-publication-of-ag-climatise-national-climate-air-roadmap-for-the-agriculture-sector/) roadmap for the sector*
+*My analysis of the new Department of Agriculture's [Ag Climatise](https://www.gov.ie/en/press-release/a8823-publication-of-ag-climatise-national-climate-air-roadmap-for-the-agriculture-sector/) roadmap for the sector, as reported by Kevin O' Sullivan in the [Irish Times](https://www.irishtimes.com/news/politics/analyst-says-climate-plan-incompatible-with-government-s-environmental-policy-1.4442329)*
 
 Last week, the Department of Agriculture released 'Ag Climatise', a new strategy claiming to set out a pathway for “climate neutral” agriculture. On the surface this seems like a deeply ambitious policy. But it clearly is not consistent with the Paris Agreement.
 
