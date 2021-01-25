@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ask the Scientists - Ask Us Anything"
-subtitle: Public Q/amp A on Energy and Climate
+subtitle: Public Q&amp;A on Energy and Climate
 cover-img: /assets/img/hills.jpg
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
@@ -9,7 +9,7 @@ share-img: /assets/img/lightsquare.jpg
 tags: [climate, carbon, YouTube]
 ---
 
-I joined my wonderful colleagues in MaREI's Energy Policy and Modelling Group for a public Q/and A on Energy and Climate topics. The recording can be found here:
+I joined my wonderful colleagues in MaREI's Energy Policy and Modelling Group for a public Q&amp;A on Energy and Climate topics. The recording can be found here:
 https://www.youtube.com/watch?v=qw5mp6ilpPg
 
 Some questions often come up in public events like this and some day I intend to write up blogs in response to each of them:
