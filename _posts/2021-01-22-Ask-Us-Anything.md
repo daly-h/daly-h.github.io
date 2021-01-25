@@ -9,8 +9,7 @@ share-img: /assets/img/lightsquare.jpg
 tags: [climate, carbon, YouTube]
 ---
 
-I joined my wonderful colleagues in MaREI's Energy Policy and Modelling Group for a public Q&amp;A on Energy and Climate topics. The recording can be found here:
-https://www.youtube.com/watch?v=qw5mp6ilpPg
+I joined my wonderful colleagues in MaREI's Energy Policy and Modelling Group for a public Q&amp;A on Energy and Climate topics. The recording can be found [here.](https://www.youtube.com/watch?v=qw5mp6ilpPg)
 
 Some questions often come up in public events like this and some day I intend to write up blogs in response to each of them:
 - What can I do to reduce emissions in my own home?
