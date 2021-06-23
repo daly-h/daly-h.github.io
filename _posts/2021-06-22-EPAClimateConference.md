@@ -8,6 +8,8 @@ thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.jpg
 tags: [climate, policy, transport]
 ---
+### A recording of the full session "Enabling the Transition -National Policy and Carbon Budgets" will be available [here](https://www.youtube.com/channel/UCPft0ga_GXLOaaRSuG_PIYQ).
+
 The EPA projections published yesterday should be a stark wake-up call. Even with half a million EVs by 2030, emissions in transport will barely reduce. Reaching the full target of nearly 1 million EVs will reduce transport emissions by less than a quarter relative to 2018 – only half of what is needed.
 
 Moreover, meeting this target could require a doubling of EV sales every year – which is not impossible, but would require sustained subsidies and a much faster rolling out charging infrastructure.
