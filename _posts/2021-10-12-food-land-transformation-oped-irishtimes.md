@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/cow-s.png
 share-img: /assets/img/.cow-spng
 tags: [climate, agriculture, land, oped]
 ---
-### [Link to article]{https://www.irishtimes.com/opinion/food-production-and-land-use-must-shift-to-meet-climate-targets-1.4697516?mode=sample&auth-failed=1&pw-origin=https%3A%2F%2Fwww.irishtimes.com%2Fopinion%2Ffood-production-and-land-use-must-shift-to-meet-climate-targets-1.4697516%3F}
+### [Link to article](https://www.irishtimes.com/opinion/food-production-and-land-use-must-shift-to-meet-climate-targets-1.4697516?mode=sample&auth-failed=1&pw-origin=https%3A%2F%2Fwww.irishtimes.com%2Fopinion%2Ffood-production-and-land-use-must-shift-to-meet-climate-targets-1.4697516%3F)
 
 A transformation in land-use and agriculture practices and policies will be needed to meet the target of a climate-neutral society by 2050, where any remaining emissions are balanced by removals by trees, soils and so-called “negative emissions technologies” – far beyond marginal efficiency improvements. This is true for every sector responsible for greenhouse gas emissions. Technology and efficiency measures are critical, but will not be enough.
 
