@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  MTime to reassess what is sufficient for a good life
+title:  Time to reassess what is sufficient for a good life
 subtitle: Op-ed in the Irish Times
 cover-img: /assets/img/earth.jpg
 Comments: true
@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/earthsquare.png
 share-img: /assets/img/earthsquare.png
 tags: [climate, policy, society, oped]
 ---
-### [Link to article]{https://www.irishtimes.com/news/science/time-to-reassess-what-is-sufficient-for-a-good-life-1.4786162}
+### [Link to article](https://www.irishtimes.com/news/science/time-to-reassess-what-is-sufficient-for-a-good-life-1.4786162)
 
 
 A simplistic vision of one ongoing climate change debate pits two solutions in opposition. According to one side, technology is the only hope: Replace internal combustion engines with electric motors, decarbonise power supply with wind, solar and nuclear, and eventually develop machines to suck carbon out of the atmosphere.
