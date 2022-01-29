@@ -37,7 +37,7 @@ There is a precedent for this.
 Energy transitions can happen quickly if there is state urgency backed up by public support. We can look back to the oil crises in the 1970s where the cost of oil quadrupled and shortages created queues at petrol pumps and electricity blackouts. Three things happened, domestically and internatioally:
 - It created an opportunity for a domestic gas industry with exploration and development of the Kinsale field. The electricity system rapidly pivoted away from oil, which was around 70% of power generation in the early 1970s to natural gas and peat. This is not to justify this energy transition from a climate or environmental perspective (the use of peat is especially damaging) but to highlight that energy transitions have been brought about quickly in the past
 - The ESB stopped promoting electricity demand growth and instead focussed on conservation - lagging jackets became the norm.
-- And globally the oil crisis spurned innovation in energy efficiency and renewables. This opportunity was lost once oil prices fell and supplies stabilised.
+- And globally the oil crisis spurred innovation in energy efficiency and renewables. This opportunity was lost once oil prices fell and supplies stabilised.
 
 So it's critically important that this energy crisis is used as an opportunity to address high energy intensity and fossil fuels use.  The solutions are very familiar:
 - Tackle demand by making cars and towns less car-centric; promote public transport, ebikes etc; promote car sharing, the smallest car necessary for each person etc.
