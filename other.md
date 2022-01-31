@@ -4,9 +4,9 @@ title: Other
 subtitle: Archive of my interviews, podcasts, etc
 ---
 
-## News articles and interviews
+## Media interviews
 - [What emissions cuts will actually mean, and how they will change our lives](https://www.irishtimes.com/news/politics/what-emissions-cuts-will-actually-mean-and-how-they-will-change-our-lives-1.4776693?mode=sample&auth-failed=1&pw-origin=https%3A%2F%2Fwww.irishtimes.com%2Fnews%2Fpolitics%2Fwhat-emissions-cuts-will-actually-mean-and-how-they-will-change-our-lives-1.4776693) - Irish Times, January 15th 2022
-- - News articles related to appearance at Joint Oireachtas Committee meeting on carbon budgets, January 11th 2022
+- News articles related to appearance at Joint Oireachtas Committee meeting on carbon budgets, January 11th 2022
     * ['Complete transformation of society' needed to reach emissions targets](https://www.rte.ie/news/politics/2022/0111/1273084-carbon-budgets/) - RTE
 - [Climate forum hears about State’s precarious data centre agenda](https://www.irishtimes.com/news/environment/climate-forum-hears-about-state-s-precarious-data-centre-agenda-1.4732729) - Irish Times, November 18th 2021
 - [What the Climate Action Plan gets right – and what’s missing](https://www.irishtimes.com/news/environment/what-the-climate-action-plan-gets-right-and-what-s-missing-1.4720277) - Irish Times, November 5th 2021
@@ -23,12 +23,22 @@ subtitle: Archive of my interviews, podcasts, etc
 - [Will working from home help save the environment?](https://www.rte.ie/brainstorm/2020/0617/1148039-working-from-home-commuting-climate-change-coronavirus/) - RTE Brainstorms blog, June 18th 2020
 - [Ireland fails to meet 2020 EU emissions targets](https://www.rte.ie/news/2021/1022/1255243-epa-emissions-2020-reduction/) - RTE article
 
-## Podcasts, webinars and radio interviews
+## Podcasts, webinars, TV and radio interviews
 
 - [Five Degrees of Change](https://www.businesspost.ie/climate-environment/podcast-five-degrees-of-change-hannah-daly-b625ae71) podcast with Daniel Murray of the Sunday Business Post, November 23rd 2021
+- [Irish Times In The News Podcast](https://www.irishtimes.com/news/environment/what-the-climate-action-plan-gets-right-and-what-s-missing-1.4720277) on Climate Action Plan 2021, Nov 5th 2021
 - [RTE Today with Claire Byrne](https://www.rte.ie/radio/radio1/clips/22025483/) - radio interview on Climate Action Plan, Nov 4th 2021
 - [RTE News at One](https://www.rte.ie/radio/radio1/clips/22022159/) radio interview with Brian Dobson - Challenge of meeting carbon budget emission cuts - October 26th 2021
 - [RTE Morning Ireland](https://www.rte.ie/radio/radio1/clips/22020673/) - what can we do it reduce our carbon emissions? - October 22nd 2021
 - [RTE The Business](https://www.rte.ie/news/business/2021/1006/1251079-will-the-lights-go-out/) radio interview - Will the lights go out? October 6th 2021
 - [RTE Morning Ireland](https://www.rte.ie/news/coronavirus/2020/0428/1135259-climate-change/) - radio interview on lockdown traffic, April 28th 2020
 - [RTE Morning Ireland](https://www.rte.ie/news/environment/2020/0429/1135712-green-party-emission-demands-could-cost-40-billion/) - radio interview on feasibility of 7% per year cuts in GHGs, April 30th 2020
+- [Inside Politics podcast](https://www.irishtimes.com/news/politics/inside-politics/inside-politics-can-we-reduce-carbon-emissions-by-7-per-year-1.4241738) - Irish Times podcast, April 30th, 2020
+
+## Other reports and contributions
+- Joint Oireachtas Committee on Environment and Climate Action contributions
+  * [Carbon budgets](https://www.oireachtas.ie/en/debates/debate/joint_committee_on_environment_and_climate_action/2022-01-11/2/) (Jan 11th, 2022)
+  * [Transport decarbonisation](https://www.oireachtas.ie/ga/debates/debate/joint_committee_on_environment_and_climate_action/2021-07-13/2/?highlight%5B0%5D=so) (July 13th, 2021)
+  * [Climate bill (pdf download)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjhye3_2tn1AhX1QEEAHVNWBgUQFnoECAQQAQ&url=https%3A%2F%2Fdata.oireachtas.ie%2Fie%2Foireachtas%2Fcommittee%2Fdail%2F33%2Fjoint_committee_on_climate_action%2Freports%2F2020%2F2020-12-18_pre-legislative-scrutiny-on-the-draft-of-the-climate-action-and-low-carbon-development-amendment-bill-2020_en.pdf&usg=AOvVaw1J0SNt1TrCmwzD7dOJrPKY), December 2020
+- MaREI research 2Freports
+  * [Carbon Budgets Discussion Paper](https://www.marei.ie/wp-content/uploads/2020/10/Discussion-Paper_The-role-of-carbon-budgets-in-translating-the-Paris-Agreement-into-national-climate-policy.pdf) (pdf download, led by Jason McGuire)
