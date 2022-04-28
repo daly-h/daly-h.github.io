@@ -6,8 +6,9 @@ cover-img: /assets/img/earth.jpg
 Comments: true
 thumbnail-img: /assets/img/earthsquare.png
 share-img: /assets/img/earthsquare.png
-tags: [climate, column, carbonbudget]
+tags: [column, climate, carbonbudget]
 ---
+
 [Column in the Irish Times](https://www.irishtimes.com/news/science/is-ireland-taking-too-much-of-the-global-carbon-budget-1.4838187)
 
 Carbon budgets are Ireland’s new mechanism for reducing damaging greenhouse gas emissions. These budgets, intended to halve annual emissions by 2030, have been acknowledged as among the most ambitious in the world. But the world is rapidly heating, causing irreparable damage to people and nature, and Ireland as a high-emitting country carries a disproportionate share of the responsibility.
