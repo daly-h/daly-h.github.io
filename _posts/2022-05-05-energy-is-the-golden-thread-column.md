@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Sustainable energy is the golden thread
-subtitle: Column: At a time of Climate Crisis
-cover-img: /assets/img/hills.jpg
+title: Sustainable energy is the golden thread
+subtitle: Column - At a time of Climate Crisis
+cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
-share-img: /assets/img/lightsquare.jpg
-tags: [climate, column, energy]
+share-img: /assets/img/lightsquare.png
 ---
+
+##Column in [Irish Times](https://www.irishtimes.com/news/science/energy-upheaval-will-be-difficult-but-we-will-adapt-we-must-1.4862468)
+
 Sustainable energy is integral to enabling progress in society, the economy, and sustainable development. It was called the “golden thread that connects economic growth, social equity, and environmental sustainability” by Ban Ki-moon, UN Secretary General when access to sustainable, modern energy for all by 2030 was adopted as a Sustainable Development Goal in 2015.
 
 We are now in the middle of perhaps the most rapid and urgent energy transition in history.  Examples from the past show that policy decisions made at such critical inflection points, whether in response to an energy supply shock or climate change, can create unforeseen opportunities. But energy transitions are also disruptive, and unless managed with joined-up, systems thinking, they can also cause negative unintended consequences.  
