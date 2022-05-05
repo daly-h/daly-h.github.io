@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
 ---
 
-##Column in [Irish Times](https://www.irishtimes.com/news/science/energy-upheaval-will-be-difficult-but-we-will-adapt-we-must-1.4862468)
+## Column in the [Irish Times](https://www.irishtimes.com/news/science/energy-upheaval-will-be-difficult-but-we-will-adapt-we-must-1.4862468)
 
 Sustainable energy is integral to enabling progress in society, the economy, and sustainable development. It was called the “golden thread that connects economic growth, social equity, and environmental sustainability” by Ban Ki-moon, UN Secretary General when access to sustainable, modern energy for all by 2030 was adopted as a Sustainable Development Goal in 2015.
 
