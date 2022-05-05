@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Sustainable energy is the golden thread
-subtitle: Column: At a time of Climate Crisis
+subtitle: Column - At a time of Climate Crisis
 cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
-tags: [column, climate]
 ---
 
 ##Column in [Irish Times](https://www.irishtimes.com/news/science/energy-upheaval-will-be-difficult-but-we-will-adapt-we-must-1.4862468)
