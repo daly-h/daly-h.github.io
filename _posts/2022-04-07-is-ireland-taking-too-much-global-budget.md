@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Is Ireland taking too much of the global carbon budget?
-subtitle: At a Time of Climate Crisis: Emissions cuts are urgent to keep Earth at safe temperature
+subtitle: At a Time of Climate Crisis - Emissions cuts are urgent to keep Earth at safe temperature
 cover-img: /assets/img/earth.jpg
 Comments: true
 thumbnail-img: /assets/img/earthsquare.png
