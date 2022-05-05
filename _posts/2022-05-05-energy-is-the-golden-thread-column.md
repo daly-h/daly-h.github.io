@@ -1,24 +1,15 @@
 ---
 layout: post
-title: Will working from home help save the environment?
-subtitle: New research shows remote working, reduced car commuting and effective policy design could improve the Irish environment
+title: Sustainable energy is the golden thread
+subtitle: Column: At a time of Climate Crisis
 cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
-tags: [COVID, transport, climate]
+tags: [column, climate]
 ---
 
-
-layout: post
-title:  Sustainable energy is the golden thread
-subtitle: Column: At a time of Climate Crisis
-cover-img: /assets/img/hills.jpg
-Comments: true
-thumbnail-img: /assets/img/lightsquare.png
-share-img: /assets/img/lightsquare.jpg
-tags: [climate, column, energy]
-
+##Column in [Irish Times](https://www.irishtimes.com/news/science/energy-upheaval-will-be-difficult-but-we-will-adapt-we-must-1.4862468)
 
 Sustainable energy is integral to enabling progress in society, the economy, and sustainable development. It was called the “golden thread that connects economic growth, social equity, and environmental sustainability” by Ban Ki-moon, UN Secretary General when access to sustainable, modern energy for all by 2030 was adopted as a Sustainable Development Goal in 2015.
 
