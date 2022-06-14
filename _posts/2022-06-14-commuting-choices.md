@@ -39,7 +39,7 @@ There is no bike shelter at the bus stop, which I'd need to be able to leave a b
 
 I have taken the bus a few times, mainly to the train station (to avoid parking charge and uncertainty about space) and to go to town in the evening to have dinner. According to this experience, the bus rarely runs according to the timetable, and sometimes falls well behind schedule, mainly because it takes a long time to load passengers. It is sometimes full and leaves passengers behind. This added uncertainly is a huge barrier. Can you imagine if your car wouldn't start 5% of the time?
 
-"You can work on the bus" - not really, and I listen to Podcasts and audiobooks while I'm driving so it doesn't feel too much like lost time. 
+"You can work on the bus" - not really, and I listen to Podcasts and audiobooks while I'm driving so it doesn't feel too much like lost time.
 
 So clearly, every factor is weighted towards me driving rather than taking the bus, except the environment: Every 40 km journey in the diesel car releases 5 kg of CO2 into the atmosphere. If I used it to commute every day, that would amount to over a tonne each year.
 
@@ -63,3 +63,5 @@ Another factor to consider is that I could live closer to work so that I could c
 I live in the hope that we will one day have a network of rural bike lanes, so that I could cycle to work and my kids could cycle to school - maybe if I have grandkids they will have this infrastructure.
 
 A final point is that since my "school run" experience has started I have realised that we  overlook sustainable school transport (I wrote about this [here](https://www.irishexaminer.com/opinion/commentanalysis/arid-40323251.html)). A school bus service would cut my family's daily car kilometres more than any other measure, and would save the driver about an hour a day in the car. The streets around each school should also have footpaths and protected cycle lanes. We must get the [backseat generation](https://www.irishexaminer.com/opinion/commentanalysis/arid-40891547.html) back on two legs and two wheels!
+
+[Link to discussion on Twitter](https://twitter.com/HannahEDaly/status/1536689693387116547?).
