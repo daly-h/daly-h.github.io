@@ -29,13 +29,17 @@ Policymakers need to figure out how to get people out of cars, and I would love 
 There is an hourly bus route from my local village to Cork city, which I am lucky to have. Unfortunately, the route doubles up as an airport bus, which adds about 25 minutes to the journey each way. A one-way ticket costs about €4.50. It goes to the city centre, so I would need to take another city bus to get to UCC, costing another €2 (I don't believe the first ticket can be used for the city bus, I could be wrong). In comparison, in Dublin there is now a flat €2 fee for any journey on combined public transport lasting under 90 minutes, one-third of the cost of public transport in my case. My home is about 2.5 km from the village bus stop which I can cycle in less than 10 minutes.
 
 So the critical comparators are:
-- Car: 40 minutes, €6 (even if I drive the EV, which would cost €1, that means the diesel car will be used for the school runs), complete flexibility
-- Bus: 80+? minutes, €13 (€9 if I use a folding bike and avoid the city bus), tied to bus timetable and weather
+- Car: 1hr 20 minutes daily (max), €6 (even if I drive the EV, which would cost €1, that means the diesel car will be used for the school runs), complete flexibility.
+- Bus: 3 hours (minimum) daily, €13 (€9 if I use a folding bike and avoid the city bus), tied to bus timetable and weather.
 
 As for the other factors which would influence my decision:
-There is no bike shelter at the bus stop, which I'd need to be able to leave the bike there. I have a folding bike I can take on the bus though. The bus stop itself is not appealing. It's at the side of a busy road, with nowhere to sit or shelter, and there is no footpath to get some security from the busy passing traffic. I would be nervous standing there with my kids. People living in the village could walk, but incredibly, there are few footpaths and safe road crossings in the village. The street design prioritises the rapid flow of vehicle traffic far over pedestrians, cyclists or bus users.
+The fact that the bus option would require me to walk and/or cycle might feel like a drawback, but I would welcome the chance to bake exercise into my routine. I've gained weight since I stopped cycle commuting.
+
+There is no bike shelter at the bus stop, which I'd need to be able to leave a bike there. I have a folding bike I can take on the bus though. The bus stop itself is not appealing. It's at the side of a busy road, with nowhere to sit or shelter, and there is no footpath to get some security from the busy passing traffic. I would be nervous standing there with my kids. People living in the village could walk, but incredibly, there are few footpaths and safe road crossings in the village. The street design prioritises the rapid flow of vehicle traffic far over pedestrians, cyclists or bus users.
 
 I have taken the bus a few times, mainly to the train station (to avoid parking charge and uncertainty about space) and to go to town in the evening to have dinner. According to this experience, the bus rarely runs according to the timetable, and sometimes falls well behind schedule, mainly because it takes a long time to load passengers. It is sometimes full and leaves passengers behind. This added uncertainly is a huge barrier. Can you imagine if your car wouldn't start 5% of the time?
+
+"You can work on the bus" - not really, and I listen to Podcasts and audiobooks while I'm driving so it doesn't feel too much like lost time. 
 
 So clearly, every factor is weighted towards me driving rather than taking the bus, except the environment: Every 40 km journey in the diesel car releases 5 kg of CO2 into the atmosphere. If I used it to commute every day, that would amount to over a tonne each year.
 
