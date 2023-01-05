@@ -6,9 +6,10 @@ cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
+tags: [column, agriculture, Climate]
 ---
 
-[Irish Times Column](https://www.irishtimes.com/environment/climate-crisis/2022/09/01/climate-debate-being-poisioned-by-agricultures-manufactured-doubt-and-division/), September 1st 2022. 
+[Irish Times Column](https://www.irishtimes.com/environment/climate-crisis/2022/09/01/climate-debate-being-poisioned-by-agricultures-manufactured-doubt-and-division/), September 1st 2022.
 
 **Agriculture and climate change: manufactured doubt and division are poisoning the debate**
 

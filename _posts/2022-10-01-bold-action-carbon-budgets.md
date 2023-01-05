@@ -6,6 +6,7 @@ cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
+tags: [climate, policy, column]
 ---
 
 [Irish Times Column](https://www.irishtimes.com/environment/climate-crisis/2022/10/06/bold-action-is-necessary-to-keep-first-carbon-budget-within-reach/), October 6th 2022.

@@ -6,6 +6,7 @@ cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
+tags: [climate, blog, transport]
 ---
 
 The 2021 Climate Action Plan makes it clear that passenger transport will not be decarbonised quickly enough with EVs and biofuels alone. Nor should we believe we should even try: Public transport and cycling are cheaper, better for public and individual health, and more sustainable. As Oxford researcher Christian Brand says, ["cycling is ten times more important than electric cars for reaching net-zero cities"](https://theconversation.com/cycling-is-ten-times-more-important-than-electric-cars-for-reaching-net-zero-cities-157163).

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Future Island live - Agriculture Emissions
+title: Future Island live on RTE - Agriculture Emissions
 subtitle: RTE show for Science Week
 cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
+tags: [climate, media, agriculture]
 ---
 
 I spoke with Anna Daly and Dr. Dave Styles about greenhouse gas emissions from the agriculture sector.

@@ -6,12 +6,13 @@ cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
+tags: [fossil fuels, column, climate]
 ---
 
 [Irish Times Column](https://www.irishtimes.com/environment/climate-crisis/2022/11/03/natural-gas-is-a-bridge-to-nowhere/), Nov 3rd 2022.
 
 Preventing climate breakdown requires an urgent end to the fossil fuel era. State agencies tasked with operating and regulating our energy infrastructure have ethical and legal obligations to wind down fossil fuel consumption in line with climate obligations. The good news is that solutions to transition to a zero-carbon energy system – renewables and energy demand reduction – are largely already mature and can address energy security and affordability challenges in tandem.
-But public bodies, including our electricity and gas network operators and regulator – EirGrid, Gas Networks Ireland and the Commission for the Regulation of Utilities – are not yet sufficiently reflecting these win-win opportunities in their planning and operations. The longer they delay factoring our collective climate obligations into their duties, the more we will dig ourselves into a fossil fuel hole that will be painful to escape from. 
+But public bodies, including our electricity and gas network operators and regulator – EirGrid, Gas Networks Ireland and the Commission for the Regulation of Utilities – are not yet sufficiently reflecting these win-win opportunities in their planning and operations. The longer they delay factoring our collective climate obligations into their duties, the more we will dig ourselves into a fossil fuel hole that will be painful to escape from.
 “Climate commitments to net zero are worth zero without the plans, policies and actions to back it up”: António Guterres, UN Secretary General, had strong words for countries who are talking the talk, but not walking the walk on climate action, as a raft of new export reports launched last week warned the world is hurtling towards irreversible climate breakdown.
 Ireland is among the many culpable countries. Appallingly, our greenhouse gas emissions are set to rise yet again this year. Despite putting carbon budgets (which cap the absolute greenhouse gas emissions we can emit this decade) on a legal footing, our climate commitments are on life support unless the state takes urgent action.
 The lack of a concrete, long-term plan to phase out fossil fuels leads state agencies to continue operating as if they will be with us for decades.

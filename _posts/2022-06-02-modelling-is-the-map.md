@@ -6,6 +6,7 @@ cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
+tags: [climate, modelling, column]
 ---
 
 ## Column in the [Irish Times](https://www.irishtimes.com/environment/2022/06/02/if-climate-neutrality-is-a-journey-what-is-our-map/)

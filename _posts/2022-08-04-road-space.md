@@ -6,6 +6,7 @@ cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
+tags: [climate, column, transport]
 ---
 
 [Irish Times Column](https://www.irishtimes.com/environment/climate-crisis/2022/08/04/reducing-car-use-not-only-cuts-greenhouse-gas-emissions-it-saves-money/), August 4th 2022.

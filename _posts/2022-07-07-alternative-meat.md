@@ -6,6 +6,7 @@ cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
+tags: [climate, food, column, agriculture]
 ---
 
 [Irish Times Column](https://www.irishtimes.com/environment/climate-crisis/2022/07/07/synthetic-meat-and-sustainable-food/), July 7th 2022.
