@@ -3,8 +3,11 @@ layout: page
 title: Other
 subtitle: Archive of my interviews, podcasts, etc
 ---
+## Open positions
+For open positions within my research group, see [Hiring](/hiring).
 
 ## Media interviews
+Updated January 2022
 - [What emissions cuts will actually mean, and how they will change our lives](https://www.irishtimes.com/news/politics/what-emissions-cuts-will-actually-mean-and-how-they-will-change-our-lives-1.4776693?mode=sample&auth-failed=1&pw-origin=https%3A%2F%2Fwww.irishtimes.com%2Fnews%2Fpolitics%2Fwhat-emissions-cuts-will-actually-mean-and-how-they-will-change-our-lives-1.4776693) - Irish Times, January 15th 2022
 - News articles related to appearance at Joint Oireachtas Committee meeting on carbon budgets, January 11th 2022
     * ['Complete transformation of society' needed to reach emissions targets](https://www.rte.ie/news/politics/2022/0111/1273084-carbon-budgets/) - RTE
