@@ -6,8 +6,8 @@ subtitle: Professor in Sustainable Energy Systems
 
 I am a full Professor in Sustainable Energy and Energy Systems Modelling at [University College Cork](https://www.ucc.ie), Ireland. My research and lecturing focus on modelling and developing sustainable pathways for the energy system, encompassing energy access, climate change and air pollution, and I engage extensively with policymakers, civil society and academia on those topics. As well as being a lead contributing author to several International Energy Agency World Energy Outlook reports, I have co-authored many peer-reviewed [journal articles](https://scholar.google.com/citations?user=FhEM6U8AAAAJ&hl=en) and several book chapters and other reports. I also write a regular column - ["In a Time of Climate Crisis"](https://www.irishtimes.com/topics/topics-7.1213540?article=true&tag_person=Hannah+Daly) - for the Irish Times.
 
-### Open research positions
-For a list of positions in my research group see [here](/hiring/)/
+### I'm hiring!
+For a list of open positions with my group see [here](/hiring).
 
 ### Career profile
 *2019-present:* Professor (since 2022) in Sustainable Energy, University College Cork. You can find out more about my [Teaching](/teaching/) and [Research](/research/) on this website. I'm affiliated with [MaREI](https://www.marei.ie), the SFI Centre for Climate, Energy and the Marine and work closely with UCC's Energy Policy and Modelling Group at UCC's [Environmental Research Institute](https://www.ucc.ie/eri).
