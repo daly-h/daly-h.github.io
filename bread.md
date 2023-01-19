@@ -19,7 +19,7 @@ This recipe takes anything from 18 hours but requires very little contact time.
 - Do a final "stretch and fold" and hopefully you have a nice-feeling, tight and smooth boule. Dust this generously all over with flour.
 - For the final prove, put the dough into a bowl that can take double its volume and dust with even more flour. If you have a banneton, all the better ([instructions](https://www.youtube.com/watch?v=5msUbegzU4Y)).
 - Cover with clingfilm or put in a plastic bag and put into the fridge for a minimum of 4 hours, and up to 24 hours (and longer probably wouldn't hurt).
-- When you're ready to cook, take it out of the fridge. Put a square of baking paper into an oven-proof dish (like a cast iron casserole) with a lid if you have one, and tip the dough upside down into the pot. Slash the top with a very sharp knife if you want then put into a cold oven for 55 minutes at 220C.
+- When you're ready to cook, take it out of the fridge. Put a square of baking paper into an oven-proof dish (like a cast iron casserole) with a lid if you have one, and tip the dough upside down into the pot. Slash the top with a very sharp knife if you want then put into the oven (no need to pre-heat) for 55 minutes at 220C. (This step was a revelation to me - the prevailing wisdom is that you have to pre-heat the pot and oven for an hour.)
 - You're supposed to wait for an hour to dig in.....
 
 

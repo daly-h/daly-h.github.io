@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Energy storage and flexibility is the new frontier of zero-carbon electricity
-subtitle: At a Time of Climate Crisis: Harnessing the power of sun and wind requires a transformation to a more agile power system
+subtitle: At a Time of Climate Crisis - Harnessing the power of sun and wind requires a transformation to a more agile power system
 cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
