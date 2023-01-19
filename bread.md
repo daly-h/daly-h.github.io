@@ -7,13 +7,13 @@ subtitle: My ultimate bread recipe
 This recipe takes anything from 18 hours but requires very little contact time.
 
 ### Ingredients
-- 500g flour (bread/string flour is good but plain should be fine - I use [this](https://kellswholemeal.ie/product/marriages-uppermost-flour-16kg/) one)
+- 500g flour (bread/strong flour is good but plain should be fine - I use [this](https://kellswholemeal.ie/product/marriages-uppermost-flour-16kg/) one)
 - 350g water
 - 1g dried yeast (yes a tiny amount, a quarter teaspoon)
 - 8g salt
 
 ### Method
-- Mix all ingredients with your hand, the hadle of a wooden spoon or with the hook attachment of a food processor for a minute until well mixed. It will still be very shaggy.
+- Mix all ingredients with your hand, the handle of a wooden spoon or with the hook attachment of a food processor for a minute until well mixed. It will still be very shaggy.
 - Cover and leave on the counter for about an hour. The flour will become hydrated during this period. Now "stretch and fold" the dough in the bowl until it starts to firm up - around 10-20 times. [Here's](https://www.theclevercarrot.com/2020/05/how-to-stretch-and-fold-sourdough/) a demonstration. Cover and leave on the counter again
 - Now do this stretching ad folding a few more times over the course of the next 2 hours, all within the bowl. Then cover the bowl with clingfilm or a wet towel and leave it "prove" for a minimum of 8 hours - overnight is ideal. You want the dough to double in size, but not over-prove or it will lose structure.
 - Do a final "stretch and fold" and hopefully you have a nice-feeling, tight and smooth boule. Dust this generously all over with flour.
@@ -23,4 +23,4 @@ This recipe takes anything from 18 hours but requires very little contact time.
 - You're supposed to wait for an hour to dig in.....
 
 
-This recipe is closely related to [this](https://foodbodsourdough.com/cold-oven-baking/) one which uses a sourdough starter and [this](https://leitesculinaria.com/99521/recipes-jim-laheys-no-knead-bread.html) which used to be my go-to and requires absolutely no attention. 
+This recipe is closely related to [this](https://foodbodsourdough.com/cold-oven-baking/) one which uses a sourdough starter and [this](https://leitesculinaria.com/99521/recipes-jim-laheys-no-knead-bread.html) which used to be my go-to and requires absolutely no attention.
