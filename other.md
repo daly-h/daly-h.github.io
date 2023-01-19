@@ -21,6 +21,7 @@ Also see my own column and op-eds in the "[Blog](/blog)" section of this website
 - [Wind Energy Ireland report](https://windenergyireland.com/latest-news/6442-listen-noel-cunniffe-and-hannah-daly-on-today-fm-s-last-word-about-our-zeroby35-ambition) - The Last Word with Matt Cooper, Today FM
 - [Academics call for move away from fossil fuels](https://www.rte.ie/radio/radio1/clips/22075980/), Morning Ireland, March 2022
 - [Green Campus UCC Podcast](https://www.ucc.ie/en/greencampus/news/green-campus-podcast-episode-8-with-ucc-lecturer-hannah-daly.html) - April 2022
+- [E-scooters](https://www.rte.ie/radio/radio1/clips/22138337/) - Today with Claire Byrne, August 2022
 - News articles related to Friends of the Earth report on natural gas (December 2022)
     * [Newstalk Breakfast](https://www.newstalk.com/podcasts/highlights-from-newstalk-breakfast/cut-gas-consumption-to-meet-climate-targets)
     * [Morning Ireland](https://www.rte.ie/radio/radio1/clips/22180706/)
@@ -28,6 +29,7 @@ Also see my own column and op-eds in the "[Blog](/blog)" section of this website
     * [Irish Times](https://www.irishtimes.com/business/2022/12/05/rising-gas-demand-blocking-progress-on-climate-and-energy-security-experts-warn/)
     * [Irish Examiner](https://www.irishexaminer.com/news/arid-41023433.html)
 - Coverage of COP27 in Egypt, November 2022
+    * [Today with Claire Byrne](https://www.rte.ie/radio/radio1/clips/22169214/)
     * [Irish Examiner](https://www.irishexaminer.com/opinion/commentanalysis/arid-41000885.html)
     * [Morning Ireland](https://www.rte.ie/radio/radio1/clips/22165983/)
     * [Echo Live](https://www.echolive.ie/corknews/arid-40999673.htmlh)
@@ -51,6 +53,7 @@ Also see my own column and op-eds in the "[Blog](/blog)" section of this website
 - [How deep a footprint do we leave with our digitally dominated lives?](https://www.irishtimes.com/news/environment/how-deep-a-footprint-do-we-leave-with-our-digitally-dominated-lives-1.4701589) - Irish Times, October 15th 2021
 - [Food production and land use must shift to meet climate targets](https://www.irishtimes.com/opinion/food-production-and-land-use-must-shift-to-meet-climate-targets-1.4697516) - Irish Times, October 12th 2021
 - [Climate report is a ‘Code red’ for humanity, says UN secretary general](https://www.irishtimes.com/news/environment/climate-report-is-a-code-red-for-humanity-says-un-secretary-general-1.4643234) - Irish Times, August 10th 2021
+- [What can we do to reduce our carbon emissions? ](https://www.rte.ie/radio/radio1/clips/22020673/) - Morning Ireland, October 2021
 - [What can the COP26 climate summit achieve?](https://www.irishtimes.com/news/environment/what-can-the-cop26-climate-summit-achieve-1.4564288) - Irish Times, May 15th 2021
 - [Five Degrees of Change](https://www.businesspost.ie/climate-environment/podcast-five-degrees-of-change-hannah-daly-b625ae71) podcast with Daniel Murray of the Sunday Business Post, November 23rd 2021
 - [Irish Times In The News Podcast](https://www.irishtimes.com/news/environment/what-the-climate-action-plan-gets-right-and-what-s-missing-1.4720277) on Climate Action Plan 2021, Nov 5th 2021
@@ -58,6 +61,7 @@ Also see my own column and op-eds in the "[Blog](/blog)" section of this website
 - [RTE News at One](https://www.rte.ie/radio/radio1/clips/22022159/) radio interview with Brian Dobson - Challenge of meeting carbon budget emission cuts - October 26th 2021
 - [RTE Morning Ireland](https://www.rte.ie/radio/radio1/clips/22020673/) - what can we do it reduce our carbon emissions? - October 22nd 2021
 - [RTE The Business](https://www.rte.ie/news/business/2021/1006/1251079-will-the-lights-go-out/) radio interview - Will the lights go out? October 6th 2021
+- [Climate Action Plan 2021](https://www.rte.ie/radio/radio1/clips/22025483/) - Today with Claire Byrne, November 4th 2021
 
 ### 2020
 - [Will working from home help save the environment?](https://www.rte.ie/brainstorm/2020/0617/1148039-working-from-home-commuting-climate-change-coronavirus/) - RTE Brainstorms blog, June 18th 2020
@@ -65,6 +69,7 @@ Also see my own column and op-eds in the "[Blog](/blog)" section of this website
 - [RTE Morning Ireland](https://www.rte.ie/news/coronavirus/2020/0428/1135259-climate-change/) - radio interview on lockdown traffic, April 28th 2020
 - [RTE Morning Ireland](https://www.rte.ie/news/environment/2020/0429/1135712-green-party-emission-demands-could-cost-40-billion/) - radio interview on feasibility of 7% per year cuts in GHGs, April 30th 2020
 - [Inside Politics podcast](https://www.irishtimes.com/news/politics/inside-politics/inside-politics-can-we-reduce-carbon-emissions-by-7-per-year-1.4241738) - Irish Times podcast, April 30th, 2020
+- [How the Pandemic led to a cycling renaissance](https://www.rte.ie/brainstorm/2020/1007/1169989-cycling-renaissance-covid-19-pandemic-ireland/)
 
 
 
@@ -76,3 +81,6 @@ Also see my own column and op-eds in the "[Blog](/blog)" section of this website
   * [Climate bill (pdf download)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjhye3_2tn1AhX1QEEAHVNWBgUQFnoECAQQAQ&url=https%3A%2F%2Fdata.oireachtas.ie%2Fie%2Foireachtas%2Fcommittee%2Fdail%2F33%2Fjoint_committee_on_climate_action%2Freports%2F2020%2F2020-12-18_pre-legislative-scrutiny-on-the-draft-of-the-climate-action-and-low-carbon-development-amendment-bill-2020_en.pdf&usg=AOvVaw1J0SNt1TrCmwzD7dOJrPKY), December 2020
 - MaREI research reports
   * [Carbon Budgets Discussion Paper](https://www.marei.ie/wp-content/uploads/2020/10/Discussion-Paper_The-role-of-carbon-budgets-in-translating-the-Paris-Agreement-into-national-climate-policy.pdf) (pdf download, led by Jason McGuire)
+
+## Other things I like
+- [My ultimate bread recipe](/bread)
