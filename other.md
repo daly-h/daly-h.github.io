@@ -12,6 +12,7 @@ Also see my own column and op-eds in the "[Blog](/blog)" section of this website
 ### 2023
 - [Expanding the EV power network](https://www.rte.ie/radio/radio1/clips/22199540/) - Interview with Claire Byrne, RTE Radio 1, January 19th 2023
 - [Prof Hannah Daly of UCC discusses wind power generation](https://www.rte.ie/news/player/2023/0116/22198059-prof-hannah-daly-of-ucc-discusses-wind-power-generation/) - Six-One News, January 16th 2023
+- [Climate Ambassador's podcast from An Taisce](https://audioboom.com/posts/8225418-energy-with-prof-hannah-daly) - Jan 2023
 
 
 ### 2022
