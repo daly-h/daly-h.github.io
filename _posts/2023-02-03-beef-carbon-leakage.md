@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beef is neither environmentally nor economically sustainable - Why are we subsidising it for export?
-subtitle: At a Time of Climate Crisis: The time for using other countries’ poor climate record as cover for Ireland’s is long past
+subtitle: At a Time of Climate Crisis - The time for using other countries’ poor climate record as cover for Ireland’s is long past
 cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
