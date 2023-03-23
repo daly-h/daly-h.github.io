@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EV rolleout must be accelerated to decarbonise transport
+title: EV rollout must be accelerated to decarbonise transport
 subtitle: Blog - Cutting the grant for new electric vehicles
 cover-img: /assets/img/lightbulb.png
 Comments: true
@@ -38,6 +38,7 @@ There are also many misconceptions about EVs. My observation is that they seem t
 - they can improve the functioning of the power grid with a high share of wind and solar power, acting as flexible storage from hour-to-hour [4]
 - mining the minerals for batteries creates environmental damage - all mining does. But this is miniscule compared with the scale and damage from extracting, transporting, refining and burning oil [5]. These minerals are also recyclable and recoverable, whereas oil, once burned, is gone, turning into carbon dioxide that warms the planet for centuries
 - batteries last a lot longer than many people feared they would a decade ago. I drive a 9-year old Nissan Leaf whose battery is still at 85 % capacity, and the technology has come a long way since then. Even when it does come to the end of its usable life, the battery in the car can be replaced and the old one can be repurposed for home energy storage. The car itself has fewer moving parts (no combustion, no oil like in fossil fuel) so lasts longer and is easier to maintain.
+- Ireland is a very small part in the global supply chain, constrained as it is. We would require only 2-3% of all EU sales to reach full market share in 2025. China alone sold nearly 6 million EVs in 2022. 
 
 Ireland is also an ideal country for EVs in many ways: Distances are short (the distance between Cork and Donegal at 380 km, for example, is below the range of many standard EV models); a high proportion of people have their own driveway, allowing for home charging, and our dispersed settlement patterns limit the feasibility of more sustainable modes.
 
