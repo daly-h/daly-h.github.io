@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rooftop solar PV - we are at the cusp of a seismic shift in energy
-subtitle: Blog -
+subtitle: Blog - cut in VAT rate on solar PV will accelerate clean energy transition
 cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
