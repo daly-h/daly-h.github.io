@@ -17,6 +17,7 @@ Also see my own column and op-eds in the "[Blog](/blog)" section of this website
 
 ### 2022
 - [Interview: UCC Engineering Professor Hannah Daly on new Cork-France energy line](https://www.rte.ie/news/player/2022/1125/22177418-interview-ucc-engineering-professor-hannah-daly-on-new-cork-france-energy-line/) - Six-One News, November 2022
+- [RTE Future Island TV](https://www.rte.ie/player/series/future-island-live/SI0000008013?epguid=IP10001005-03-0002)
 - [Cabinet signs off on Climate Action Plan](https://www.todayfm.com/podcasts/the-last-word-with-matt-cooper/cabinet-signs-off-on-climate-action-plan) - The Last Word with Matt Cooper, Today FM, December 21st, 2022
 - [Clean Energy with Professor Hannah Daly](https://podcasts.apple.com/ie/podcast/clean-energy-with-professor-hannah-daly/id1554900223?i=1000578307796) - Podcast with Irish Doctors for the Environment
 - [Wind Energy Ireland report](https://windenergyireland.com/latest-news/6442-listen-noel-cunniffe-and-hannah-daly-on-today-fm-s-last-word-about-our-zeroby35-ambition) - The Last Word with Matt Cooper, Today FM
@@ -40,6 +41,7 @@ Also see my own column and op-eds in the "[Blog](/blog)" section of this website
 - [Politicians 'must not be afraid to ruffle feathers locally' if Ireland is to cut emissions](https://www.irishexaminer.com/news/arid-40942304.html) - Irish Examiner, August 2022
 - ['Great disappointment' that carbon emissions are still rising](https://www.irishexaminer.com/news/arid-40955291.html) - Irish Examiner, September 2022
 - [Is it time to get SUVs off our roads?](https://www.newstalk.com/podcasts/highlights-from-newstalk-breakfast/is-it-time-to-get-suvs-off-our-roads) - Newstalk Breakfast, June 2022
+- [Urgency of the sustainable energy transition](https://hannahdaly.ie/2022-03-22-sustaianble-energy-transition-Copy/) - Morning Ireland interview, March 22nd
 - [What emissions cuts will actually mean, and how they will change our lives](https://www.irishtimes.com/news/politics/what-emissions-cuts-will-actually-mean-and-how-they-will-change-our-lives-1.4776693?mode=sample&auth-failed=1&pw-origin=https%3A%2F%2Fwww.irishtimes.com%2Fnews%2Fpolitics%2Fwhat-emissions-cuts-will-actually-mean-and-how-they-will-change-our-lives-1.4776693) - Irish Times, January 15th 2022
 
 ### 2021
