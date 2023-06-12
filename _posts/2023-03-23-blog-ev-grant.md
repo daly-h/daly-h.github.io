@@ -6,8 +6,10 @@ cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightsquare.png
 share-img: /assets/img/lightsquare.png
-tags: [transport, EV, blog]
+tags: [transport, EV, blog, column]
 ---
+
+*I subsequently turned this blog into a [column](https://www.irishtimes.com/environment/climate-crisis/2023/04/06/there-must-be-no-slowdown-in-the-drive-for-electric-vehicles/)
 
 I discussed the Government's announced reduction of the electric vehicle grant on [Morning Ireland this morning](https://www.rte.ie/radio/radio1/clips/22229074/). Here a quick blog expanding on some of the points I made, and some additional points I didn't have the time to.  
 
