@@ -4,7 +4,7 @@ title: Hannah E. Daly
 subtitle: Professor in Sustainable Energy Systems
 ---
 
-I am a  Professor in Sustainable Energy and Energy Systems Modelling at [University College Cork](https://www.ucc.ie), Ireland. My research and lecturing focus on modelling and developing sustainable pathways for the energy system, encompassing energy access, climate change and air pollution, and I engage extensively with policymakers, civil society and academia on those topics. As well as being a lead contributing author to several International Energy Agency World Energy Outlook reports, I have co-authored many peer-reviewed [journal articles](https://scholar.google.com/citations?user=FhEM6U8AAAAJ&hl=en) and several book chapters and other reports. I also write a regular column - ["At a Time of Climate Crisis"](https://www.google.com/search?client=firefox-b-d&q=%22hannah%20Daly%22%20site%3Airishtimes.com&ved=2ahUKEwiuoMSIrPH8AhXWFsAKHVEgBgEQ2wF6BAgcEAE&ei=GcvYY-6vK9atgAbRwJgI) - for the Irish Times. The [Blog](/Blog/) section of my website includes all my media articles. 
+I am a  Professor in Sustainable Energy and Energy Systems Modelling at [University College Cork](https://www.ucc.ie), Ireland. My research and lecturing focus on modelling and developing sustainable pathways for the energy system, encompassing energy access, climate change and air pollution, and I engage extensively with policymakers, civil society and academia on those topics. As well as being a lead contributing author to several International Energy Agency World Energy Outlook reports, I have co-authored many peer-reviewed [journal articles](https://scholar.google.com/citations?user=FhEM6U8AAAAJ&hl=en) and several book chapters and other reports. I also write a regular column - ["At a Time of Climate Crisis"](https://www.google.com/search?client=firefox-b-d&q=%22hannah%20Daly%22%20site%3Airishtimes.com&ved=2ahUKEwiuoMSIrPH8AhXWFsAKHVEgBgEQ2wF6BAgcEAE&ei=GcvYY-6vK9atgAbRwJgI) - for the Irish Times. The [Blog](/Blog/) section of my website includes all my media articles.
 
 
 ### Career profile
@@ -17,5 +17,3 @@ I am a  Professor in Sustainable Energy and Energy Systems Modelling at [Univers
 *2009-2012:* Ph.D. with the Energy Policy and Modelling Group at University College Cork, under the supervision of [Professor Brian O'Gallachoir](http://publish.ucc.ie/researchprofiles/D012/bogallachoir). Ph.D. thesis: "Transport energy demand: techno-economic modelling and scenarios for Irish climate policy" (download thesis [here](https://cora.ucc.ie/handle/10468/1552)).
 
 <!-- For a full career profile, you can download a PDF copy of [My CV](cv.pdf). -->
-
-<a rel="me" href="https://mastodon.ie/@hannahdaly">Mastodon</a>
