@@ -10,9 +10,15 @@ For open positions within my research group, see [Hiring](/hiring).
 Also see my own column and op-eds in the "[Blog](/blog)" section of this website.
 
 ### 2023
-- [Expanding the EV power network](https://www.rte.ie/radio/radio1/clips/22199540/) - Interview with Claire Byrne, RTE Radio 1, January 19th 2023
-- [Prof Hannah Daly of UCC discusses wind power generation](https://www.rte.ie/news/player/2023/0116/22198059-prof-hannah-daly-of-ucc-discusses-wind-power-generation/) - Six-One News, January 16th 2023
-- [Climate Ambassador's podcast from An Taisce](https://audioboom.com/posts/8225418-energy-with-prof-hannah-daly) - Jan 2023
+- [Prof Hannah Daly of UCC discusses wind power generation](https://www.rte.ie/news/player/2023/0116/22198059-prof-hannah-daly-of-ucc-discusses-wind-power-generation/) - Six-One News, January 16th
+- [Expanding the EV power network](https://www.rte.ie/radio/radio1/clips/22199540/) - Interview with Claire Byrne, RTE Radio 1, January 19th
+- [Climate Ambassador's podcast from An Taisce](https://audioboom.com/posts/8225418-energy-with-prof-hannah-daly) - Jan
+- [VAT on solar panels to go](https://www.rte.ie/radio/radio1/clips/22233743/) - Today with Claire Byrne, RTE Radio 1, April 3rd
+- [McGill Summer School](https://donegalcoco.public-i.tv/core/portal/webcast_interactive/800170), August
+- [Radio interview - How does boosting beef exports chime with our climate obligations?](https://www.rte.ie/radio/radio1/clips/22317280/), Saturday with Colm O Mongain, November 4th
+- [Cop28 to get underway in Dubai tomorrow](https://www.rte.ie/radio/radio1/clips/22326738/) - RTE Radio 1, Morning Ireland, November 29th 
+- [Can we really fuel planes with fat and sugar?](https://www.bbc.com/future/article/20231201-can-we-really-fuel-planes-with-fat-and-sugar), BBC Future, December 3rd
+- [Interview on RTE "This Week" - COP28 and Agriculture](https://www.rte.ie/radio/radio1/clips/22331710/), December 10th
 
 
 ### 2022
