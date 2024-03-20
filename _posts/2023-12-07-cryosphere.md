@@ -9,7 +9,7 @@ share-img: /assets/img/lightsquare.png
 tags: [climate, column, food, agriculture]
 ---
 
-Irish Times [Column](https://www.irishtimes.com/environment/climate-crisis/2023/12/07/two-degrees-is-too-high-for-ice-sheets-permafrost-and-glaciers/), December 7th, 2023
+## Irish Times [Column](https://www.irishtimes.com/environment/climate-crisis/2023/12/07/two-degrees-is-too-high-for-ice-sheets-permafrost-and-glaciers/), December 7th, 2023
 
 A flurry of reports released each year around the COP summit, update us on the state of global climate action and climate change. I have – like many – become somewhat desensitised to their grim contents. But two recent reports, when read side-by-side, shook me deeply.
 

@@ -9,7 +9,7 @@ share-img: /assets/img/lightsquare.png
 tags: [climate, column, transport, SUV]
 ---
 
-Irish Times [Column](https://www.irishtimes.com/environment/climate-crisis/2023/10/05/car-bloat-is-driving-climate-change-and-making-roads-less-safe/), October 5th, 2023
+## Irish Times [Column](https://www.irishtimes.com/environment/climate-crisis/2023/10/05/car-bloat-is-driving-climate-change-and-making-roads-less-safe/), October 5th, 2023
 
 The trend towards larger, heavier car sales is probably the best demonstration that we are not taking the climate emergency seriously.
 

@@ -9,7 +9,7 @@ share-img: /assets/img/lightsquare.png
 tags: [climate, column, transformation]
 ---
 
-Irish Times [Column](https://www.irishtimes.com/environment/climate-crisis/2023/11/06/climate-change-the-great-contradiction-in-irelands-response-to-a-warming-world/), November 6th, 2023
+## Irish Times [Column](https://www.irishtimes.com/environment/climate-crisis/2023/11/06/climate-change-the-great-contradiction-in-irelands-response-to-a-warming-world/), November 6th, 2023
 
 A riddle: Why is Ireland considered a laggard in climate action, despite enacting some of the most progressive climate legislation in the world?
 

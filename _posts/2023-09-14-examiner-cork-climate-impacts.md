@@ -13,7 +13,7 @@ Irish Examiner [article](/assets/img/IrishExaminer_Daly_14092023.jpg), September
 
 
 
-The climate has changed. The devastating weather across Europe this summer, and indeed across the world, is a glimpse of the catastrophic floods, storms and droughts likely to hit Cork's shores in the not-too-distant future. 
+The climate has changed. The devastating weather across Europe this summer, and indeed across the world, is a glimpse of the catastrophic floods, storms and droughts likely to hit Cork's shores in the not-too-distant future.
 
 Two reports published yesterday described the knowledge base for Cork City's exposure to climate change risks, and baseline greenhouse gas emissions.
 

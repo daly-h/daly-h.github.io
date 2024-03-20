@@ -9,7 +9,7 @@ share-img: /assets/img/lightsquare.png
 tags: [climate, column]
 ---
 
-- Irish Times [Column](https://www.irishtimes.com/environment/climate-crisis/2024/02/01/climate-denial-is-finding-stealthier-ways-to-extend-its-influence/), February 1st, 2023
+## Irish Times [Column](https://www.irishtimes.com/environment/climate-crisis/2024/02/01/climate-denial-is-finding-stealthier-ways-to-extend-its-influence/), February 1st, 2024
 
 In the past, climate scientists faced persistent attacks, often stemming from the fossil fuel industry’s tactics of fear, uncertainty, and doubt, which sowed public confusion about climate science.
 
