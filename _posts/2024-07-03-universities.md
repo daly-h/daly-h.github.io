@@ -9,7 +9,7 @@ share-img: /assets/img/lightsquare.png
 tags: [climate, column, education]
 ---
 
-##Irish Times, June 6th 2024 - [link](https://www.irishtimes.com/environment/climate-crisis/2024/07/04/are-universities-an-obstacle-to-climate-action-by-reinforcing-the-status-quo/)
+## Irish Times, June 6th 2024 - [link](https://www.irishtimes.com/environment/climate-crisis/2024/07/04/are-universities-an-obstacle-to-climate-action-by-reinforcing-the-status-quo/)
 
 Universities occupy a unique and powerful position in society as both creators and disseminators of knowledge. This influence should make them pivotal catalysts for climate action across society. But to fully realise this potential, universities must first transform themselves to prioritise social and ecological wellbeing over purely economic outcomes.
 

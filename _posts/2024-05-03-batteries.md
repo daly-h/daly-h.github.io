@@ -9,6 +9,7 @@ share-img: /assets/img/lightsquare.png
 tags: [climate, column]
 ---
 
+## Irish Times, May 2nd, 2024. [Link](https://www.irishtimes.com/environment/climate-crisis/2024/05/02/batteries-are-vital-to-ending-fossil-fuel-dependence/)
 
 Since converting my bike to an electric bike, one of the many pleasures I’ve experienced is watching friends and family discover the thrill of this revolutionary technology, that makes hills disappear and takes the effort out of cycling.
 
