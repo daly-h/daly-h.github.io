@@ -9,7 +9,7 @@ share-img: /assets/img/lightsquare.png
 tags: [climate, column]
 ---
 
-## Irish Times [Column](https://www.irishtimes.com/environment/climate-crisis/2024/04/04/data-centres-are-a-serious-threat-to-irelands-carbon-budgets/), April 4th, 2024
+#### Irish Times [Column](https://www.irishtimes.com/environment/climate-crisis/2024/04/04/data-centres-are-a-serious-threat-to-irelands-carbon-budgets/), April 4th, 2024
 
 Humanity’s knack for finding new ways to consume energy is not showing any sign of abating. Take cryptocurrency: A single Bitcoin transaction [can consume](https://digiconomist.net/bitcoin-energy-consumption) more electricity than a U.S. household does in a month. Or artificial intelligence (AI): A query on ChatGPT uses ten times more electricity than a Google search, and shifting all internet queries to using AI [could consume](https://asociace.ai/wp-content/uploads/2023/10/ai-spotreba.pdf) as much electricity as Ireland does in a year.
 
