@@ -53,16 +53,20 @@ The SEAI’s own analysis is available on [this webpage](https://www.seai.ie/dat
 
 ####	Industry
 The graph of energy use in industry shows the swich from oil to natural gas. Have we reached peak natural gas use in industry? The decline is apparent since before the 2021 energy crisis. Most energy is used in cement production, the manufacture of alumina, and food processing.
+
+
 ![Industry](https://hannahdaly.ie/assets/img/energy-balances/005-Ind.png)
 
 ####	Transport
 Oil dominates, with demand nearly back to the level seen in 2019. Biodiesel accounts for 3% of transport energy demand, three quarters of which is imported. Consumption of jet kerosene overtook petrol (gasoline) back in 2017 and is now at an all-time high – demand is more than three-times what it was back in 1990. Demand for diesel has grown even faster since then, but I expect that we have passed peak-oil use in private cars.  
 
 ![Transport](https://hannahdaly.ie/assets/img/energy-balances/006-Tra.png)
+
 ![Car](https://hannahdaly.ie/assets/img/energy-balances/007-Car.png)
 
 ####	Residential
 This sector has undergone a dramatic energy transition since 1990, when peat and coal accounted for 60% of the energy consumption in houses. Oil then quickly took over as the main fuel, and accounted for 45% of energy use in 2010, and its use has been fallowing slowly and steadily since then, with variations depending on the international oil price and the severity of winter cold. The last time oil use was this low was in 2014, during the last spike in the global oil price. Notable is the decline in energy use in homes, which have gotten more efficient even as they’ve gotten bigger and more numerous, and the increasing share of electricity, which now makes up 27% of home energy use. It’s good to see renewable energy start to show more prominently on this graph, albeit still very small. Notably, ambient heat (the renewable energy that heat pumps make use of) now produces more energy for homes than coal does, for the first time. Peat still produces slightly more. Heat from district heating has yet to feature in these statistics.
+
 ![Residential](https://hannahdaly.ie/assets/img/energy-balances/008-Res.png)
 
 ####	Services and data centres
@@ -70,6 +74,9 @@ Last, but not least, a topic that gets a lot of attention (including from me): W
 
 The following graph compares the growth in electricity production from wind energy since 2009 – now our largest source of indigenous energy – with the trend in energy consumption from data centres. A cumulative 70% of this growth in wind energy since 2009 would be used up by data centres if it was allocated entirely to them. If we just compare the growth in electricity consumption from data centres and generation from wind energy since 2016, they are matched almost exactly.
 
+
 ![IC](https://hannahdaly.ie/assets/img/energy-balances/009-IC.png)
+
 ![SER](https://hannahdaly.ie/assets/img/energy-balances/010-SER.png)
+
 ![DC](https://hannahdaly.ie/assets/img/energy-balances/011-DC.png)
