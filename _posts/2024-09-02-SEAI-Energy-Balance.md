@@ -80,3 +80,6 @@ The following graph compares the growth in electricity production from wind ener
 ![SER](https://hannahdaly.ie/assets/img/energy-balances/010-SER.png)
 
 ![DC](https://hannahdaly.ie/assets/img/energy-balances/011-DC.png)
+
+
+-- All data is from SEAI - all errors and omissions are my own fault. 
