@@ -21,25 +21,25 @@ The SEAI’s own analysis is available on [this webpage](https://www.seai.ie/dat
 -	When looking at this graph (and all graphs of energy production and consumption) it’s worth bearing in mind the “primary energy fallacy”: because of the inherent inefficiencies in fossil fuels (and other energy sources that you have to burn) over many clean energy fuels and technologies (like wind and solar, heat pumps, EVs), graphs which compare these sources in terms of their primary energy actually underplay the role of clean fuels in the energy system.
 -	Ireland still imports more than four-times the energy than we produce. In the next section, we will look at our total primary energy demand.
 
-![Indigenous production](./energy-balances/1-Prod.png)
+![Indigenous production](/energy-balances/1-Prod.png)
 
 
 
 ### Primary energy requirement
-•	The graph below describes the energy that Ireland consumes, rather than the energy it produces. The major difference is oil, which is still the main engine of our energy system. Some interesting observations from this graph include the relative stability of our primary energy demand, despite a growing population and economy. This is for a number of reasons:
-o	Firstly, as we use more electricity, and more of that electricity comes from renewables, we can consume more energy services for the same amount of primary energy.
-o	Secondly, energy consumption is falling in some sectors, like residential buildings and industry, because of efficiency standards, retrofits, and a move away from less efficient fuels – we will see these trends in graphs describing our energy consumption.
-o	Finally, Ireland’s economic growth is driven (mainly) by non-energy-intensive industries, so there has been a decoupling of GDP and primary energy requirement.
+-	The graph below describes the energy that Ireland consumes, rather than the energy it produces. The major difference is oil, which is still the main engine of our energy system. Some interesting observations from this graph include the relative stability of our primary energy demand, despite a growing population and economy. This is for a number of reasons:
+-	Firstly, as we use more electricity, and more of that electricity comes from renewables, we can consume more energy services for the same amount of primary energy.
+-	Secondly, energy consumption is falling in some sectors, like residential buildings and industry, because of efficiency standards, retrofits, and a move away from less efficient fuels – we will see these trends in graphs describing our energy consumption.
+-	Finally, Ireland’s economic growth is driven (mainly) by non-energy-intensive industries, so there has been a decoupling of GDP and primary energy requirement.
 
 
 ### Electricity input and generation
-•	Unfortunately, the SEAI energy balance doesn’t easily show the evolution of the electricity generation mix, which represents the amount of electricity generated from each fuel source, but it can be used to show the amount of each fuel that enters the electricity sector, below.
-•	The great news is that peat, oil and coal are now close to being eliminated from power generation – a remarkable achievement. Despite this, the consumption of natural gas has been relatively stable over the past 20 years, as renewables (mainly wind energy) have replaced the most polluting and least efficient fuels. What is also remarkable is that even though the total fuel input to power generation is steady, the amount of electricity generated is growing strongly – it has doubled since 1997. More on why electricity demand is growing so strongly later…
-•	Around 7% of our electricity was met by imports last year, which is a record figure.
+-	Unfortunately, the SEAI energy balance doesn’t easily show the evolution of the electricity generation mix, which represents the amount of electricity generated from each fuel source, but it can be used to show the amount of each fuel that enters the electricity sector, below.
+-	The great news is that peat, oil and coal are now close to being eliminated from power generation – a remarkable achievement. Despite this, the consumption of natural gas has been relatively stable over the past 20 years, as renewables (mainly wind energy) have replaced the most polluting and least efficient fuels. What is also remarkable is that even though the total fuel input to power generation is steady, the amount of electricity generated is growing strongly – it has doubled since 1997. More on why electricity demand is growing so strongly later…
+-	Around 7% of our electricity was met by imports last year, which is a record figure.
 
 
 ### Total final energy consumption
-•	The final graphs will look at the fuels that are consumed in the end-use sectors, like transport, industry and buildings. Electricity is growing both absolutely and as a share of consumption, up to 22% in 2023, from 14% in 1990. But still more than half of our energy consumption is taken up by oil, which in these graphs includes jet kerosene for aviation.
+-	The final graphs will look at the fuels that are consumed in the end-use sectors, like transport, industry and buildings. Electricity is growing both absolutely and as a share of consumption, up to 22% in 2023, from 14% in 1990. But still more than half of our energy consumption is taken up by oil, which in these graphs includes jet kerosene for aviation.
 
 
 
