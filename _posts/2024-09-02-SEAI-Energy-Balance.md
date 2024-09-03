@@ -17,9 +17,9 @@ The SEAI’s own analysis is available on [this webpage](https://www.seai.ie/dat
 
 #### Highlights
 - Ireland generated more energy from wind than from natural gas in 2023, for the first time.
-- The growth in wind energy production has matched the growth in data centre electricity demand since 2016.
-- Ambient heat - the renewable energy that heat pumps are based on - is a larger source of energy for homes than coal does, for the first time. But peat still produces slightly more heat.
-- We may have reached peak oil for road transport, but the consumption of jet kerosene for international aviation - which overtook petrol consumption in 2017 - is at an all-time high and showing no sign of slowing.
+- But since 2016, all the growth in wind energy production has matched the growth in data centre electricity demand. We are running up an down-moving escalator!
+- Ambient heat (the renewable energy that heat pumps are based on) is now a larger source of energy for homes than coal, for the first time. But peat is still a greater source of heat, and oil dominates.
+- We may have reached peak oil for road transport, but the consumption of jet kerosene for international aviation - which overtook petrol consumption in 2017 - is at an all-time high and shows no sign of slowing.
 - Despite strong population and economic growth, total primary energy demand has stabilised.
 
 ### Indigenous production
