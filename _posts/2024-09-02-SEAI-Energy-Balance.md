@@ -21,7 +21,7 @@ The SEAI’s own analysis is available on [this webpage](https://www.seai.ie/dat
 -	When looking at this graph (and all graphs of energy production and consumption) it’s worth bearing in mind the “primary energy fallacy”: because of the inherent inefficiencies in fossil fuels (and other energy sources that you have to burn) over many clean energy fuels and technologies (like wind and solar, heat pumps, EVs), graphs which compare these sources in terms of their primary energy actually underplay the role of clean fuels in the energy system.
 -	Ireland still imports more than four-times the energy than we produce. In the next section, we will look at our total primary energy demand.
 
-![Indigenous production](/assets/img/energy-balances/1-Prod.png)
+![Indigenous production](assets/img/energy-balances/1-Prod.png)
 
 
 
