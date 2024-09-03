@@ -31,6 +31,7 @@ The SEAI’s own analysis is available on [this webpage](https://www.seai.ie/dat
 -	Secondly, energy consumption is falling in some sectors, like residential buildings and industry, because of efficiency standards, retrofits, and a move away from less efficient fuels – we will see these trends in graphs describing our energy consumption.
 -	Finally, Ireland’s economic growth is driven (mainly) by non-energy-intensive industries, so there has been a decoupling of GDP and primary energy requirement.
 
+![Primary Energy Requirement](002-PER.png)
 
 ### Electricity input and generation
 -	Unfortunately, the SEAI energy balance doesn’t easily show the evolution of the electricity generation mix, which represents the amount of electricity generated from each fuel source, but it can be used to show the amount of each fuel that enters the electricity sector, below.
