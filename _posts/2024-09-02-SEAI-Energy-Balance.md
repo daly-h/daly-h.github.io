@@ -13,7 +13,7 @@ tags: [energy, blog, data, SEAI]
 
 The Sustainable Energy Authority of Ireland recently published the final energy balance for 2023, which is essentially a spreadsheet that summarises what energy sources are produced and consumed by different sectors, going back to 1990. Each year I update my own tracker with the SEAI’s new energy balance and I always find the trends fascinating. Here are some interesting insights from this year’s balance, with a broader view of energy trends over the past 24 years.
 
-The SEAI’s own analysis is available on this webpage, along with the energy balances themselves, and their deeper “Energy in Ireland” report is published annually, which contains a lot more information. The analysis below is just reporting the main trends that jump out at me.  
+The SEAI’s own analysis is available on [this webpage](https://www.seai.ie/data-and-insights/seai-statistics/key-publications/national-energy-balance/), along with the energy balances themselves, and their deeper “Energy in Ireland” report is published annually, which contains a lot more information. The analysis below is just reporting the main trends that jump out at me.  
 
 ### Indigenous production
 -	For the first time, Ireland produces more wind energy than natural gas. Overall renewables production overtook natural gas in 2021, and now the growth in RE (mainly wind, but also some solar PV and ambient heat – heat pumps) and fall in natural gas production (as the Corrib field declines) means that renewables production is nearly double that of natural gas.
@@ -21,7 +21,7 @@ The SEAI’s own analysis is available on this webpage, along with the energy ba
 -	When looking at this graph (and all graphs of energy production and consumption) it’s worth bearing in mind the “primary energy fallacy”: because of the inherent inefficiencies in fossil fuels (and other energy sources that you have to burn) over many clean energy fuels and technologies (like wind and solar, heat pumps, EVs), graphs which compare these sources in terms of their primary energy actually underplay the role of clean fuels in the energy system.
 -	Ireland still imports more than four-times the energy than we produce. In the next section, we will look at our total primary energy demand.
 
-![image info](./assets/img/energy-balances/1-Prod.png)
+![Indigenouse production](./assets/img/energy-balances/1-Prod.png)
 
 
 
