@@ -9,7 +9,7 @@ share-img: /assets/img/lightsquare.png
 tags: [climate, column]
 ---
 
-#### Irish Times, September 5th 2024
+#### Irish Times, September 5th 2024 - [link](https://www.irishtimes.com/environment/climate-crisis/2024/09/05/should-we-treat-greenhouse-gas-emissions-like-smoking/)
 
 Humanity has through its history adapted guardrails to protect against threats, like disease, war, and economic collapse. Crucially, it has also developed social understanding and acceptance of these safeguards, which can be costly and disruptive.
 
