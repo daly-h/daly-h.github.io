@@ -9,6 +9,8 @@ share-img: /assets/img/lightsquare.png
 tags: [blog, data centres]
 ---
 
+\textit{Link to LinkedIn [thread](https://www.linkedin.com/posts/hannah-daly_unfettered-data-centre-growth-will-put-irelands-activity-7253058256644841474-5JAS?utm_source=share&utm_medium=member_desktop)}
+
 There have been a number of op-eds and think pieces in the Irish media recently arguing to keep growing the data centre industry in this country.
 
 A common thread among these articles is a claim that data centres are supporting Ireland’s energy transition, rather than working against our climate goals, as I and others [have claimed]( https://www.irishtimes.com/environment/climate-crisis/2024/04/04/data-centres-are-a-serious-threat-to-irelands-carbon-budgets/).
