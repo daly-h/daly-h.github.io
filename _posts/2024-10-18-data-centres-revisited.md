@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unfettered data centre growth will put Ireland's carbon budgets out of reach
+title: Unfettered data centre growth works against Ireland's climate obligations
 subtitle: I estimate that CPPAs have only met 16 per cent of new data centre demand growth since 2020
 cover-img: /assets/img/lightbulb.png
 Comments: true
@@ -15,7 +15,7 @@ A common thread among these articles is a claim that data centres are supporting
 
 These articles all share a similar line of reasoning: data centres support our energy transition and mission to decarbonise because they create a market for renewables (and thereby stimulate demand) and, digitalisation and AI can help solve climate change.  
 
-I want to take some time to shed some light on these claims and show how these narratives are not accurate.
+I want to take some time to look at the evidence behind these claims.
 
 Take the headline of an [op-ed]( https://www.irishtimes.com/business/2024/10/14/instead-of-curbing-data-centres-we-should-build-more-to-spark-greater-demand-for-renewable-energy/) written by Harry Goddard, chief executive of Deloitte Ireland in this week’s Irish Times: “Instead of curbing data centres, we should build more to spark greater demand for renewable energy”. The piece argues that the presence of more data centres will accelerate the development of renewable energy, and therefore their growth can be aligned with decarbonisation
 
@@ -30,7 +30,7 @@ The following are statistics and analysis I offer, which challenge the notion th
 
 ## Growth in data centre electricity demand has entirely matched growth in wind energy production since 2017
 
-Firstly, to support the notion that more data centres can accelerate decarbonisation, there would have to be evidence that renewable energy deployment is growing faster (or can grow faster) than energy demand growth from data centres, and that net renewables growth is greater than what would be in place without data centres. This is because it is cumulative emissions that matter for the climate and the legal carbon budget basis for Ireland’s Climate Act – building renewables is only a means to achieve the goal of cutting cumulative fossil fuel use, and therefore carbon dioxide emissions. If growing renewables generation is simply met by growing demand, then fossil fuel use won’t fall – it will be like walking up a downwards-moving escalator.
+Firstly, to support the notion that more data centres can accelerate decarbonisation, there would have to be evidence that renewable energy deployment is growing faster (or can grow faster) than energy demand growth from data centres, and that net renewables growth is greater than what it would be without data centres. This is because it is cumulative emissions that matter for the climate and the legal carbon budget basis for Ireland’s Climate Act – building renewables is only a means to achieve the goal of cutting cumulative fossil fuel use, and therefore carbon dioxide emissions. If growing renewables generation is simply met by growing demand, then fossil fuel use won’t fall – it will be like walking up a downwards-moving escalator.
 
 When we look at the historical data and projections, there is no evidence to suggest that data centres are supporting renewables growth in this way. In the chart below I have graphed the additional wind energy generated in Ireland against demand growth from data centres since 2017. Data centres have more than matched all the growth from wind energy.
 
@@ -44,21 +44,22 @@ Data centres have supported new renewables through power purchase agreements (PP
 Unfortunately there is no central data source describing the financing of renewables projects (and if any reader has data to share, I would welcome it). From this analysis, it is clear that electricity demand from data centres is far outstripping the additional renewable energy being procured through CPPAs over the past three years, and the proportion of CPPAs undertaken by data centres is itself unknown.
 
 
+
 ## New renewables do not cause emissions to fall unless they are replacing existing fossil fuels
 
 The narrative that procuring additional renewables capacity through CPPAs helps meet the targets under Ireland’s climate act is not valid, because total energy demand is rising much faster than additional renewables, and that energy has to be met through additional fossil fuels. As before, it is cumulative greenhouse gas emissions, not gigawatts of renewables capacity, that is the legal basis for Ireland’s decarbonisation commitments (and what matters for the climate).
 
-In the analysis above, we see that the growth in electricity demand from wind energy generation from CPPAs met at most 16% of the growth in electricity demand from data centres. If we assume that the remainder was met by the marginal generator, natural gas, with a CO2 intensity of 400 gCO2/kWh, this means that the additional power demand from data centres since the beginning of 2021 to the end of 2023 caused around 1.1 Mt CO2 emissions in 2023, which amounts to 2 per cent of Ireland’s entire GHG emissions, or 14.5 per cent of emissions from the power system.
+In the analysis above, we see that the growth in electricity demand from wind energy generation from CPPAs met at most 16 per cent of the growth in electricity demand from data centres. If we assume that the remaining 86 per cent was met by the marginal generator, natural gas, with a CO2 intensity of 400 gCO2/kWh, this means that the additional power demand from data centres since the beginning of 2021 to the end of 2023 caused around 1.1 Mt CO2 emissions in 2023, which amounts to 2 per cent of Ireland’s entire GHG emissions, or 14.5 per cent of emissions from the power system.
 
 If we look further back, and assume that 16 per cent of the power demand of all data centres currently in operation is met by “additional” renewables, procured through CPPAs, then the total annual climate impact is around double this – 2.1 MtCO2 - or 28% of the power system’s GHG emissions in 2023.  
 
-The graph below illustrates why it is so important, from a climate perspective, to focus new renewables on replacing fossil fuels than on serving additional demand from new data centres.
+The graph below illustrates why it is so important, from a climate perspective, to focus new renewables on replacing fossil fuels than on serving additional demand from new data centres. It also illustrates why serving new data centre demand through on-site natural gas generators, which are less efficient than grid-scale generators, offsets huge emissions savings efforts from other sectors.
 
 ![Annual CO2 emissions savings across the energy system from 1 TWh of new renewable electricity generation](/assets/img/DCB3.png)
 
 ## Renewables are necessary to decarbonise transport, heat, industry and power
 
-Ireland has an abundance of renewable resources, but we have to look at the current reality rather than potential to get an objective picture of the climate implication of new data centres. Over 80% of Ireland’s energy still comes from fossil fuels, and decarbonising our energy supply, and making it secure, will require that new renewables are developed to fuel our existing demands – our cars, trucks, homes and businesses. Right now, data centres are far outpacing the new renewables projects being funded directly through CPPAs, meaning they are a major threat to the delivery of our carbon budgets.
+Ireland has an abundance of renewable resources, but we have to look at the current reality rather than potential to get an objective picture of the climate implication of new data centres. Over 80 per cent of Ireland’s energy still comes from fossil fuels, and decarbonising our energy supply will require that new renewables are developed to fuel our existing demands – our cars, trucks, homes and businesses. R
 
 ## There is already a huge market for renewables
 
@@ -69,15 +70,15 @@ Secondly, the renewables industry doesn’t need new customers to guarantee reve
 
 ## These articles ignore that data centres are seeking to connect to the gas network
 
-Climate is not the only constraint on the growth of data centres in Ireland – the physical capacity of the electricity grid is not equipped for such growth, especially in the Dublin area. To get around the effective moratorium imposed by EirGrid on new data centre connections there, developments are seeking connections to the natural gas network to generate electricity on-site through small-scale turbines. These developments have downplayed the climate impact of these developments because Gas Networks Ireland plans to decarbonise the gas network via biomethane and hydrogen (plans which I am personally deeply sceptical of – which is not the focus of this blog post). Despite major concerns raised by the Climate Change Advisory Council and directions from Climate Minister Eamon Ryan, Gas Networks Ireland [is advocating to]( https://www.businesspost.ie/article/lift-block-on-data-centres-gas-networks-ireland-urges/) allow these connections, which certainly contradicts any mandate it might have to support the achievement of carbon budgets.
+Climate is not the only constraint on the growth of data centres in Ireland – the physical capacity of the electricity grid is not equipped for such growth, especially in the Dublin area. To get around the effective moratorium imposed by EirGrid on new data centre connections there, developments are seeking connections to the natural gas network to generate electricity on-site through small-scale turbines. These developments have downplayed the climate impact of these developments because Gas Networks Ireland plans to decarbonise the gas network via biomethane and hydrogen (plans which I am personally deeply sceptical of – which I won't go into in this blog post). Despite major concerns raised by the Climate Change Advisory Council and directions from Climate Minister Eamon Ryan, Gas Networks Ireland [is advocating to]( https://www.businesspost.ie/article/lift-block-on-data-centres-gas-networks-ireland-urges/) allow these connections, which certainly contradicts any mandate it might have to support the achievement of carbon budgets.
 
 ## Key takeaways
 
 The Commission for the Regulation of Utilities (CRU) is soon due to finalise its [Large Energy Users connection policy]( https://www.cru.ie/about-us/news/cru-opens-consultation-on-large-energy-user-connections-policy/), as part of the National Energy Demand Strategy, which was a requirement under the 2023 Climate Action Plan.
 
-In my view, even the projected growth of power demand from data centres with existing grid connections poses a major challenge to decarbonising our energy system in line with the Climate Law. New developments should be required to be 24x7 zero emissions from the point of operation and have an obligation to procure renewables in a way that is additional to, rather than in place of, renewables required for decarbonising the existing energy system. The practical implications of such a requirement would hopefully lead to an acceleration of the timelines of renewables, grid and storage developments, but it would also slow down data centre growth until we are on track to meeting carbon budgets.
+In my view, even the projected growth of power demand from data centres with existing grid connections poses a major challenge to decarbonising our energy system in line with the Climate Law. Any new developments should be required to be 24x7 zero emissions from the point of operation and have an obligation to procure renewables in a way that is additional to, rather than in place of, renewables required for decarbonising the existing energy system. The practical implications of such a requirement would hopefully lead to an acceleration of the timelines of renewables, grid and storage developments, but it would also slow down data centre growth until we are on track to meeting carbon budgets.
 
-Moreover, the idea of connecting new developments (or even existing customers) to the gas network is frankly alarming and flies in the face of the urgency of climate mitigation. That developments are even putting in planning submissions, and that GNI is advocating for this, shows very little faith in the “legally binding” nature of our carbon budgets, which is an ominous sign. It concerns me deeply that State agencies are supporting this, and strengthening the narratives I analysed above. Beyond GNI, for example, Mr Cooper writes that “IDA Ireland is finalising its new five year plan at present to give to government, and it is certain to put this AI related investment front and centre".
+Moreover, the idea of connecting new developments (or even existing customers) to the gas network is frankly alarming and flies in the face of the urgency of climate mitigation. That developments are even putting in planning submissions, and that GNI is advocating for this, shows very little faith in the “legally binding” nature of our carbon budgets, which is an ominous sign. It concerns me deeply that State agencies are supporting this, and promoting the narratives I analysed above. Beyond GNI, for example, Mr Cooper writes that “IDA Ireland is finalising its new five year plan at present to give to government, and it is certain to put this AI related investment front and centre".
 
 The theoretical demand for new data centres is difficult to comprehend – a video circulated on social media recently of former Google CEO Eric Schmidt saying that energy demand for AI is theoretically infinite. The idea that Ireland should offer our infrastructure and renewable potential, and sacrifice our climate goals, to meet this need is (to me) somewhere between bizarre and grotesque. AI is not going to help us secure a safe climate, and unless the industry is subjected to environmental limits it is going to make the situation much worse. I’m not advocating for “degrowth”, but for an enterprise strategy that doesn’t make our prosperity reliant on economic activities that work against our climate.
 
