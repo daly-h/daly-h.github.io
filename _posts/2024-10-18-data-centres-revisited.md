@@ -9,7 +9,8 @@ share-img: /assets/img/lightsquare.png
 tags: [blog, data centres]
 ---
 
-*Link to LinkedIn [thread](https://www.linkedin.com/posts/hannah-daly_unfettered-data-centre-growth-will-put-irelands-activity-7253058256644841474-5JAS?utm_source=share&utm_medium=member_desktop)*
+*Link to LinkedIn [thread](https://www.linkedin.com/posts/hannah-daly_unfettered-data-centre-growth-will-put-irelands-activity-7253058256644841474-5JAS?utm_source=share&utm_medium=member_desktop)
+Link to Twitter (X) [thread](https://x.com/HannahEDaly/status/1847294467738386580)*
 
 There have been a number of op-eds and think pieces in the Irish media recently arguing to keep growing the data centre industry in this country.
 
