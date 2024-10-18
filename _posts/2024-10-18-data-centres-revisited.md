@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unfettered data centre growth will out Ireland's carbon budgets out of reach
+title: Unfettered data centre growth will put Ireland's carbon budgets out of reach
 subtitle: I estimate that CPPAs have only met 16 per cent of new data centre demand growth since 2020
 cover-img: /assets/img/lightbulb.png
 Comments: true
@@ -52,7 +52,7 @@ In the analysis above, we see that the growth in electricity demand from wind en
 
 If we look further back, and assume that 16 per cent of the power demand of all data centres currently in operation is met by “additional” renewables, procured through CPPAs, then the total annual climate impact is around double this – 2.1 MtCO2 - or 28% of the power system’s GHG emissions in 2023.  
 
-The graph below illustrates why it is so important, from a climate perspective, to focus new renewables on replacing fossil fuels than on serving additional demand from new data centres. 
+The graph below illustrates why it is so important, from a climate perspective, to focus new renewables on replacing fossil fuels than on serving additional demand from new data centres.
 
 ![Annual CO2 emissions savings across the energy system from 1 TWh of new renewable electricity generation](/assets/img/DCB3.png)
 
