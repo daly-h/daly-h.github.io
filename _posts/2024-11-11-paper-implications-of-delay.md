@@ -11,13 +11,13 @@ tags: [paper, climate, blog, carbon budgets, CCAC]
 
 My team published a significant [new paper](https://www.nature.com/articles/s44168-024-00181-7) which analyses the implications of overshooting carbon budgets in Ireland. Below I replicate our press release, which was picked up by the Irish Times this morning.
 
-##Swift energy transition in Ireland is needed to prevent climate and economic costs – new study
+## Swift energy transition in Ireland is needed to prevent climate and economic costs – new study
 
 - Most ambitious climate budget would only cost the equivalent of four cups of coffee a month for every person in Ireland
 - Failure to invest in energy transition now will lead to greater financial burden later
 - 2050 is too late a target for Ireland to go ‘Net-Zero’
 
-###Ireland’s climate progress is too slow, and must front-load its investment in energy transition to avoid significant climate and economic costs, new research has warned.
+### Ireland’s climate progress is too slow, and must front-load its investment in energy transition to avoid significant climate and economic costs, new research has warned.
 
 Researchers from University College Cork (UCC) say the level of investment needed to meet ambitious climate budgets would only cost the equivalent of between one and four cups of coffee a month for each person in Ireland.
 
@@ -28,7 +28,7 @@ The study reveals that meeting ambitious carbon budgets would cost between €60
 
 The investment in clean energy is significant and is mainly required this decade, but it will nearly entirely pay for itself through long-term savings on fossil fuel imports, while also leading to cleaner air and a more secure energy system that is resilient to global energy crises. In contrast, ongoing reliance on fossil fuels in currently policy scenarios increases long-term financial burdens and continues to contribute to worsening climate impacts.
 
-###Key findings:
+### Key findings:
 - 2050 is too late for net-zero: Deep emissions cuts must occur sooner than currently planned for Ireland to contribute effectively to limiting global warming.
 - Immediate action required: Failure to act this decade would necessitate costly and possibly unfeasible measures later, including large-scale carbon removal with complex trade-offs.
 - Electrify and decarbonise electricity: Key measures include electrifying transport, heating, and industry, alongside expanding renewable power generation.
@@ -40,9 +40,9 @@ Dr. Vahid Aryanpur, lead author, said; “Think of the carbon budget like a stri
 Senior author Prof. Hannah Daly said:
 “Ireland’s climate progress is too slow, and continued delays will make meeting EU and global commitments more costly and less feasible. Technologies for a clean energy system are mature and affordable—urgency is what’s missing.”
 
-###About the study
+### About the study
 This study informed Ireland’s Climate Change Advisory Council (CCAC) and contributes evidence to deliberations on upcoming carbon budgets for the 2030s, through the CCAC’s Carbon Budgets Working Group, of which study author Prof. Hannah Daly is a member.
 
 The TIMES-Ireland Model (TIM), an optimisation model used in the study, evaluated cost-effective energy pathways that reduce emissions while meeting energy demand across sectors. TIM is open-source and peer reviewed, and its development within the EPMG is funded by the Department of Environment, Climate and Communications through the Climate Action Modelling Group (CAMG).
- 
+
 The study was conducted by UCC’s Energy Policy and Modelling Group, part of MaREI, the SFI Research Centre for Energy, Climate, and Marine research at the Environmental Research Institute in University College Cork. EPMG is at the forefront of research supporting Ireland’s sustainable energy transition.
