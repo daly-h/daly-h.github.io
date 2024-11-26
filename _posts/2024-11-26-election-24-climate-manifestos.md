@@ -2,7 +2,7 @@
 layout: post
 title: Election 2024 - how do party manifestos stack up on climate commitments?
 subtitle: Some personal reflections on the upcoming Irish general election, and a plea
-cover-img: /assets/img/ge24.jpg
+cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/ge24.jpg
 share-img: /assets/img/ge24.jpg
@@ -12,6 +12,8 @@ tags: [election, climate, blog]
 ## How do party manifestos signal the possible shape of climate action in the next government?
 
 #### Read the [independent assessment](https://www.friendsoftheearth.ie/news/labour-tops-manifesto-assessment-on-climate-the-three-larges/) of the climate action pledges commissioned by Friends of the Earth
+
+![](/assets/img/ge24.jpg)
 
 After spending much of the past week going through more than 1,000 pages of 9 political party manifestos, there are three distinct approaches to climate among the parties. The political parties that scored highest - Labour, Social Democrats, the Green Party and People Before Profit - all demonstrate very strong commitments to climate action. These parties place climate among their top priorities and detail plans to cut emissions quickly, while considering aspects like equity and biodiversity.
 
