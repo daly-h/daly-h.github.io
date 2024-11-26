@@ -2,7 +2,7 @@
 layout: post
 title: Election 2024 - how do party manifestos stack up on climate commitments?
 subtitle: Some personal reflections on the upcoming Irish general election, and a plea
-cover-img: /assets/img/lightbulb.png
+cover-img: /assets/img/ge24.jpg
 Comments: true
 thumbnail-img: /assets/img/ge24.jpg
 share-img: /assets/img/ge24.jpg
@@ -25,4 +25,4 @@ My biggest takeaway from our assessment is that the three main parties - Fianna 
 
 Even more concerning is that is that Aontú and Independent Ireland each scored a "G", our worst mark. If either of these parties form a coalition, we could see a repeal of the Climate Act, and regression across many areas. Some political commentators are speculating that Independent Ireland in particular could be a plausible  coalition partner.
 
-So to those who care about a safe climate - and surveys suggest that is the vast majority of Irish people - here is my plea: When deciding how to vote, consider the four parties that come top in our manifesto assessment - the order within the top four certainly matters less than the gap between those four and the others. I also call on the Irish media to hold the leaders of the three large parties accountable, and press them to re-commit to the Climate Act. 
+So to those who care about a safe climate - and surveys suggest that is the vast majority of Irish people - here is my plea: When deciding how to vote, consider the four parties that come top in our manifesto assessment - the order within the top four certainly matters less than the gap between those four and the others. I also call on the Irish media to hold the leaders of the three large parties accountable, and press them to re-commit to the Climate Act.
