@@ -11,6 +11,8 @@ tags: [election, climate, blog]
 
 ## How do party manifestos signal the possible shape of climate action in the next government?
 
+
+
 #### Read the [independent assessment](https://www.friendsoftheearth.ie/news/labour-tops-manifesto-assessment-on-climate-the-three-larges/) of the climate action pledges commissioned by Friends of the Earth
 
 ![](/assets/img/ge24.jpg)
