@@ -9,7 +9,9 @@ share-img: /assets/img/lightbulb.png
 tags: [climate, policy, podcast]
 ---
 
-With former Green Party leader and Climate minister Eamon Ryan, I joined the Irish Times Inside Politics podcast to discuss a recent report by the Irish Fiscal Advisory Council and Climate Council. I also asked ChatGPT to summarise the discussion and to generate a cleaned version of the transcript. 
+I joined the Irish Times Inside Politics podcast to discuss a recent report by the Irish Fiscal Advisory Council and Climate Council, with former Green Party leader and Climate minister Eamon Ryan. 
+
+I asked ChatGPT to summarise the discussion and to generate a cleaned version of the transcript. 
 
 - [Link to Irish Times](https://www.irishtimes.com/podcasts/inside-politics/will-falling-behind-on-climate-cost-ireland-billions/)
 - [Link to Apple Podcasts](https://podcasts.apple.com/ie/podcast/inside-politics-with-hugh-linehan/id794389685?i=1000698530914)
@@ -17,6 +19,7 @@ With former Green Party leader and Climate minister Eamon Ryan, I joined the Iri
 
 
 # **Inside Politics Podcast (10th March 2025) - AI-generated summary**
+
 
 ## **Hannah Daly (Professor of Sustainable Energy, University College Cork)**
 
