@@ -8,8 +8,6 @@ thumbnail-img: /assets/img/lightbulb.png
 share-img: /assets/img/lightbulb.png
 tags: [climate, column, policy]
 ---
-### Irish Times [Column](https://www.irishtimes.com/environment/climate-crisis/2025/07/03/overshooting-15-degrees-what-now/), July 3rd 2025
-
 What happens to the Paris Agreement once the world breaches 1.5 degrees of global warming?
 
 This question, long debated in climate circles, has now become unavoidable. In 2024, the hottest year ever recorded, global temperatures averaged 1.6 degrees above pre-industrial levels. One year doesn’t define a trend, and the Paris Agreement focuses on long-term averages. But at this stage, it’s [virtually certain](https://essd.copernicus.org/articles/17/2641/2025/) that the 1.5 degrees threshold will be exceeded this decade, likely before the end of 2027.
