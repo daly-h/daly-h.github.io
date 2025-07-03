@@ -8,6 +8,8 @@ thumbnail-img: /assets/img/lightbulb.png
 share-img: /assets/img/lightbulb.png
 tags: [climate, column, energy, LDES, storage]
 ---
+ ### Irish Times [column](https://www.irishtimes.com/environment/climate-crisis/2025/06/05/new-batteries-based-on-rusting-will-help-make-irelands-energy-secure-and-clean/) for June 2025
+ 
  One of Ireland’s most exciting and important energy projects is quietly being developed at a remote outpost in Donegal, not far from Malin head. FuturEnergy Ireland, a joint venture between Coillte and ESB, has been granted planning permission to build Europe’s first iron-air battery, a new technology that promises to store renewable energy for weeks while enhancing and supporting the electricity grid.
 
 Known as the [Ballynahone Energy Storage](https://ballynahoneenergystorage.ie/) project, the site will look modest – a collection of weatherproof containers on a three-hectare site beside an electrical substation – but what it represents could be transformative. Iron-air batteries are new form of long-duration energy storage (LDES) that is needed to help Ireland reduce its dependence on fossil gas and keep the lights on during the so-called *Dunkelflaute* – periods of still, dark weather when neither wind nor solar can contribute meaningfully to electricity supply.
