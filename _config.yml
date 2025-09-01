@@ -38,10 +38,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "h.daly+w@ucc.ie"
+  email: "h.daly@ucc.ie"
 # facebook: deanattali
 # github: h-daly
-  twitter: hannahedaly
+ # twitter: hannahedaly
   rss: true
 #  reddit: yourname
   linkedin: hannah-daly
@@ -65,7 +65,7 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: true
   vk: false
