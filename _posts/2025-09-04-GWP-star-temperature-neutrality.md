@@ -10,6 +10,8 @@ tags: [climate, column, policy]
 ---
 # Why ‘No Additional Warming’ Is a Dangerous Climate Loophole
 
+### [Column](https://www.irishtimes.com/environment/climate-crisis/2025/09/04/why-no-additional-warming-is-a-dangerous-climate-loophole/) for the Irish Times, September 4th 2025
+
 *“No additional warming”*: it sounds like an ambitious climate target. In fact, this idea that now risks becoming the foundation of Ireland’s long-term climate strategy would allow Ireland to continue emitting high levels of methane from agriculture, while misleadingly claiming climate neutrality.
 
 The Climate Change Advisory Council (CCAC) has recommended that Ireland aim to become “temperature neutral” by 2050, its interpretation of the long-term objective of the climate law. This means stabilising our contribution to global warming by mid-century. For a country like Ireland, with exceptionally high methane emissions from ruminant livestock, this amounts to a free pass for continued high emissions.
