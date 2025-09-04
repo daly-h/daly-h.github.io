@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why ‘No Additional Warming’ Is a Dangerous Climate Loophole
-subtitle: At a Time of Climate Crisis - GWP/* risks backsliding for methane-intensive sectors
+subtitle: At a Time of Climate Crisis - GWP* risks backsliding for methane-intensive sectors
 cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightbulb.png
