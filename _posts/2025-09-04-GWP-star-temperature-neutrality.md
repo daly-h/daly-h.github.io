@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Overshooting 1.5 degrees - What happens now? 
-subtitle: At a Time of Climate Crisis - Focusing solely on the feasibility of 1.5 risks paralysis; instead, debate should centre on how to reduce warming and prepare for large-scale carbon drawdown
+title: Why ‘No Additional Warming’ Is a Dangerous Climate Loophole
+subtitle: At a Time of Climate Crisis - GWP/* risks backsliding for methane-intensive sectors
 cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightbulb.png
