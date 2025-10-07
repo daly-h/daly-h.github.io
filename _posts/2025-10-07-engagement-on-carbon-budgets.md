@@ -19,6 +19,7 @@ I will not go into the full details of what was proposed, but I led, or co-autho
 - I wrote my Irish Times column for September on the topic of temperature neutrality and GWP/* ([here](https://www.irishtimes.com/environment/climate-crisis/2025/09/04/why-no-additional-warming-is-a-dangerous-climate-loophole/))
 - I also led the energy systems anaysis which underpinned thescenarios used by the CCAC in  budget proposals. ([link to final report](https://www.climatecouncil.ie/media/CBWG%20Report%20TIMES-Ireland%20Model.pdf))
 
-
 On October 7th, the Committee [finalised its report](https://data.oireachtas.ie/ie/oireachtas/committee/dail/34/joint_committee_on_climate_environment_and_energy/reports/2025/2025-10-06_report-on-the-proposed-carbon-budgets_en.pdf). The report acknowledges the controversy over the CCAC’s reinterpretation of the climate neutrality goal as "no additional warming" and recommends that the proposed budgets be re-evaluated in light of a robust interpretation of climate neutrality, the EU's 2040 target, and crucially, Ireland's obligations under Article 2 of the Paris Agreement, including both the temperature goals and the principle of “common but differentiated responsibilities and respective
 capacities”.
+
+This is now with the Minister and government. If he accepts the recommendations of the JOC, the process for setting Ireland's third and fourth carbon budgets will be delayed, but it will openly reviewed and hopefully establish a robust process for determining what precisely "climate neutrality" means in Ireland - which is, astonishingly, not defined. 
