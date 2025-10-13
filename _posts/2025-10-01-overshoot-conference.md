@@ -11,13 +11,7 @@ tags: [conference, climate, overshoot]
 
 This week, I participated in the first [Overshoot Conference](https://overshootconference.org) hosted by IIASA. 
 
-I'm looking forward to a full writeup of the conference outcomes because it became clear that while we are entering climate overshoot, and the urgency of action is never clearer, the concept of returning to 1.5C "from above" is still not mainstream, not in mitigation research and certainly not in policymaking. 
-
-A snap I took of one conference outcome went [viral on Linkedin](https://www.linkedin.com/posts/hannah-daly_the-best-guess-of-climate-experts-at-this-activity-7379493993417576448-3CmV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAz8YjQBg4PciE5M7b3ggHFq14jRrTQ7gb0). 
-
-![Overshoot conference outcome](/assets/img/overshoot.jpeg)
-
-It shows a nice survey the conference oragnisers did of the participants at the start and end of the conference - what was our best guess in an optimistic and pessimistic scenario what would be the timing, peak and duration of peak temperatures, in a world where temperatures do return below 1.5C by 2500. The best guess of participants was that optimistically, tempertaures return to today's levels by 2250 - that is in around 7 generations time, which is about the same distance from now as the start of the industrial revolution. This finding was very sobering for me - there is no likely "no or low overshoot" world now, and it's honestly very difficult to see how humanity gets its act together to achieve this. Nevertheless, everyone there is doing what they can to avoid and minimise overshoot, which was comforting. 
+I'm looking forward to a full writeup of the conference outcomes because it became clear that while we are entering climate overshoot, and the urgency of action is never clearer, the concept of returning to 1.5C "from above" is still not mainstream, not in mitigation research and certainly not in policymaking.  
 
 Very many thanks and kudos to the organisers, if you're reading this, and thanks to the participants for an extremley enriching experience. 
 
