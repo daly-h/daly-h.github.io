@@ -23,3 +23,8 @@ On October 7th, the Committee [finalised its report](https://data.oireachtas.ie/
 capacities”.
 
 This is now with the Minister and government. If he accepts the recommendations of the JOC, the process for setting Ireland's third and fourth carbon budgets will be delayed, but it will openly reviewed and hopefully establish a robust process for determining what precisely "climate neutrality" means in Ireland - which is, astonishingly, not defined. 
+
+#### Update 6th November
+John FitzGerald, former chair of the CCAC, misrepresented our position in a number of ways in his [column](https://www.irishtimes.com/business/economy/2025/10/20/cutting-the-entire-cattle-herd-to-reduce-emissions-makes-no-economic-sense/) for the Irish Times on November 20th. Along other incorrect claims, he wrote that that those of us who critiqued the Council's approach to temperature neutrlauty believe that "Ireland should essentially end all livestock production, and that the Teagasc scenario, of some continuing dairy farming, should be rejected by the climate council". 
+
+We [wrote a letter](https://www.linkedin.com/posts/hannah-daly_our-letter-in-response-to-prof-john-fitzgeralds-activity-7389001162152177664-wXLQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAz8YjQBg4PciE5M7b3ggHFq14jRrTQ7gb0) refuting some of these claims. The claim that those advocating that Ireland's carbon budgets should align with our obligations under the Paris Agreement (which is required under law) requires an abandonment of all livestock is very damaging and fuels a narrative of "environmentalists vs farmers". 
