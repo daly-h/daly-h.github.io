@@ -11,7 +11,7 @@ tags: [climate, policy]
 
 I had the enormous honour of participating in an event to brief President Connolly on the climate and biodiversity emergency, organised by An Taisce. The event was called "Snapshots on climate change and its impacts on our welfare" and the President gave a powerful opening address about her vision to be a "climate justice president" (reported [here](https://www.irishtimes.com/environment/climate-crisis/2025/11/19/moral-duty-to-act-now-on-climate-change-for-future-generations-president-connolly-says/)). 
 
-![President Connolly](/assets/img/connolly2025.jpeg)
+![President Connolly](/assets/img/connolly2025.jpg)
 
 **My speaking notes: **
 -----------------
