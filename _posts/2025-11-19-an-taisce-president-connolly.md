@@ -9,11 +9,11 @@ share-img: /assets/img/lightbulb.png
 tags: [climate, policy]
 ---
 
-I had the enormous honour of participating in an event to brief President Connolly on the climate and biodiversity emergency, organised by An Taisce. The event was called "Snapshots on climate change and its impacts on our welfare" and the President gave a powerful opening address about her vision to be a "climate justice president" (reported [here](https://www.irishtimes.com/environment/climate-crisis/2025/11/19/moral-duty-to-act-now-on-climate-change-for-future-generations-president-connolly-says/)). 
+I had the enormous honour of participating in an event for President Connolly on the climate and biodiversity emergency, organised by An Taisce. The event was called "Snapshots on climate change and its impacts on our welfare" and the President gave a powerful opening address about her vision to be a "climate justice president" (reported [here](https://www.irishtimes.com/environment/climate-crisis/2025/11/19/moral-duty-to-act-now-on-climate-change-for-future-generations-president-connolly-says/)). It bodes well for her presidency that she prioritised this in her first full week in office. 
 
 ![President Connolly](/assets/img/connolly2025.jpg)
 
-**My speaking notes: **
+My speaking notes: 
 -----------------
 
 There is great energy in this room today. I want to speak about a different kind of energy — the energy that powers our society, and that has underpinned our economic development since the Industrial Revolution. Our ability to exploit energy has given us extraordinary material comfort and innovation. But because more than 80% of this energy still comes from fossil fuels, it is also threatening the very fabric of our society and environment through the climate crisis.
