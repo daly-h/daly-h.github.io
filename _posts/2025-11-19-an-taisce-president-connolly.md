@@ -13,7 +13,7 @@ I had the enormous honour of participating in an event to brief President Connol
 
 ![President Connolly](/assets/img/connolly2025.jpeg)
 
-My *speaking notes* are as follows: 
+**My speaking notes: 
 -----------------
 
 There is great energy in this room today. I want to speak about a different kind of energy — the energy that powers our society, and that has underpinned our economic development since the Industrial Revolution. Our ability to exploit energy has given us extraordinary material comfort and innovation. But because more than 80% of this energy still comes from fossil fuels, it is also threatening the very fabric of our society and environment through the climate crisis.
