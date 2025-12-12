@@ -9,7 +9,7 @@ share-img: /assets/img/lightbulb.png
 tags: [climate, policy, data centre]
 ---
 
-The CRU’s [new decision on data centre connections](https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf) is notable not because it aims to solve Ireland’s climate and energy dilemma, but because it lays bare a deeper problem in our climate governance.
+The CRU’s [new decision on data centre connections](https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf) is notable because it lays bare a deeper problem in our climate governance.
 
 To its credit, the decision explicitly acknowledges that the growth of data centres poses a material risk to Ireland’s ability to meet its carbon budgets. It also openly states that the CRU believes there is a regulatory gap: the Climate Act, in its view, does not give it sufficient authority to impose greenhouse gas limits through electricity connection policy. That admission alone should give policymakers pause.
 
