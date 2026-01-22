@@ -6,7 +6,7 @@ cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightbulb.png
 share-img: /assets/img/lightbulb.png
-tags: [climate, policy, data centre]
+tags: [climate, policy, column, carbon budget]
 ---
 
 *[Column](https://www.irishtimes.com/environment/climate-crisis/2026/01/01/why-we-keep-ignoring-the-physics-of-climate-change/) for the Irish Times, January 1st 2026*
