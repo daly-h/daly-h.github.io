@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's fossil fuels all the way down
+title: When the crisis is caused by oil dependence, the solution isn't cheaper oil
 subtitle: The many ironies of fuel protests
 cover-img: /assets/img/lightbulb.png
 Comments: true
@@ -9,7 +9,7 @@ share-img: /assets/img/lightbulb.png
 tags: [op-ed, column, security, climate, fossil fuels, war, geopolitics]
 ---
 
-*Op-ed for the Irish Times, April 16th, 2026*
+*[Op-ed](https://www.irishtimes.com/opinion/2026/04/16/hannah-daly-when-the-crisis-is-caused-by-oil-dependence-the-solution-isnt-cheaper-oil/) for the Irish Times, April 16th, 2026, under the printed title "Truckers of Ireland, the accidential climate heries" (!)*
 
 Amid the worst oil shock in global history, Ireland was on the verge of turning away oil tankers this weekend. That forecourts ran dry across large parts of the country was just one of the bewildering ironies surrounding the fuel protests.
 
