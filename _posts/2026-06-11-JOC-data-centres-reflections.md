@@ -6,11 +6,11 @@ cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightbulb.png
 share-img: /assets/img/lightbulb.png
-tags: [blog, dats centres, AI, fossil fuels, policy, climate]
+tags: [blog, data centres, AI, fossil fuels, policy, climate]
 ---
 
 
-Earlier this week, I appeared as a witness at the Joint Committee on Artificial Intelligence. My contribution mainly focussed on a new working paper I published with my colleague Teresa Bonsiero, which quantifies the potential energy and emissions impacts of new data centre energy demand that may be facilitated by the CRU Large Energy User Connection Policy. The video and debate can be found [here](https://www.oireachtas.ie/en/debates/debate/joint_committee_on_artificial_intelligence/2026-06-09/), and the working paper is [here](https://zenodo.org/records/20585450).
+Earlier this week, I appeared as a witness at the Joint Committee on Artificial Intelligence. My contribution mainly focussed on a new working paper I published with my colleague Teresa Bonserio, which quantifies the potential energy and emissions impacts of new data centre energy demand that may be facilitated by the CRU Large Energy User Connection Policy. The video and debate can be found [here](https://www.oireachtas.ie/en/debates/debate/joint_committee_on_artificial_intelligence/2026-06-09/), and the working paper is [here](https://zenodo.org/records/20585450).
 
 A presentation with graphics of the key results from the paper is [here](https://www.esri.ie/sites/default/files/media/file-uploads/2026-06/9.Teresa_UCC-ESRI-MaREI%20seminar.pdf).
 
