@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflections from the Joint Committee on Artificial Intelligence 
-subtitle: The energy cost of data centres in IReland
+subtitle: The energy cost of data centres in Ireland
 cover-img: /assets/img/lightbulb.png
 Comments: true
 thumbnail-img: /assets/img/lightbulb.png
