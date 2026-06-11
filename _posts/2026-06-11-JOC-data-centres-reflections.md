@@ -24,6 +24,8 @@ The paper actually shows that the renewables share of power generation declines 
 
 I've repeated it many times - renewables are not a stand-alone policy target - they only serve our energy transition if they displace fossil fuels. This policy would lead to a lot more gas use, and a lot more emissions, pushing multiple legally-binding climate targets even further out of reach. My impression was that this message didn't fully get through to all politicians on the committee, and that we will continue to hear in public debate this persistent misunderstanding  that data centres support sustainable energy even when they're building large fossil fuel power stations.
 
+![](/assets/images/LEU/1.png)
+
 ## The enormous scale of the impact
 
 I'm not sure I managed to convey just how large the impacts are, and the scale of how they conflict with climate and energy commitments. Data centres would account for 55% of all Ireland's electricity demand, and use more fossil gas electricity generation than the electricity system is currently using. 5.8 GW is an enormous amount of new demand, and I don't know why more alarm bells are not ringing. I invite you to look at the graphical overview of results from our working paper here to get a sense of the impacts, [here](https://www.esri.ie/sites/default/files/media/file-uploads/2026-06/9.Teresa_UCC-ESRI-MaREI%20seminar.pdf).
