@@ -26,13 +26,15 @@ I've repeated it many times - renewables are not a stand-alone policy target - t
 
 ## The enormous scale of the impact
 
-I'm not sure I managed to convey just how large the impacts are, and the scale of how they conflict with climate and energy commitments. Data centres would account for 55% of all Ireland's electricity demand, and use more fossil gas electricity generation than the electricity system is currently using. 5.8 GW is an enormous amount of new demand, and I don't know why more alarm bells are not ringing.
+I'm not sure I managed to convey just how large the impacts are, and the scale of how they conflict with climate and energy commitments. Data centres would account for 55% of all Ireland's electricity demand, and use more fossil gas electricity generation than the electricity system is currently using. 5.8 GW is an enormous amount of new demand, and I don't know why more alarm bells are not ringing. I invite you to look at the graphical overview of results from our working paper here to get a sense of the impacts, [here](https://www.esri.ie/sites/default/files/media/file-uploads/2026-06/9.Teresa_UCC-ESRI-MaREI%20seminar.pdf).
 
 ## AI good or bad? It doesn't really matter
 
 I tried to not get sucked into the "is AI good or bad" debate (though I do this it's a very important one, and I am sceptical of the hype, particualrly the narrative that facilitating data centre growth is essential for Ireland's economy). Let's take the argument at face value and accept (for a moment) that facilitating massive data centre expansion in Ireland will bring a lot of wealth and employment. Does that justify such an expansion in fossil fuels that our working paper demonstrates is possible? Does that mean carbon budgets not legally binding after all, or that some sectors can get a carve-out because they are so essential to the economy? In my view, that mentality severely undermines the shared mission that is climate action.
 
 Yes, I use "digital infrastructure". I write this blog on a laptop, host it on my website, and I even ask ChatGPT to check it for errors, but just because these tools have value, it doesn't give carte blanche for the sector to grow with such large dependency on fossil fuels.
+
+I [debated](https://www.oireachtas.ie/en/debates/debate/joint_committee_on_artificial_intelligence/2026-06-09/speech/26/) this question with Deputy Malcolm Byrne, who implied that because universities store data on the cloud, then there is no alternative to large-scale data centre growth. I have to be blunt - I think this reasoning is shallow and faulty. It would be akin to debating whether we should construct motorways between every village, or facilitate private jet transport for everyone, on the basis that I drive to work and so transport infrastructure is a necessity.
 
 ## Solutions
 
