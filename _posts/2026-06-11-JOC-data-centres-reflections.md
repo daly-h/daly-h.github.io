@@ -20,15 +20,19 @@ Here are a few reflections following the very interesting session.
 
 There’s a very deeply held belief among many that if data centres finance renewables project, then they automatically support climate action. If there was one message I wanted politicians to take away from this session, it was to dispel this intellectual fault. The illogic reasoning, to me at least, is very simple. The sustainable energy transition is about getting off fossil fuels - growing renewables is one of the most important ways to do this. But the LEU Connection Policy facilitates a big expansion in fossil fuel use, despite also requiring new renewables covering 80% of their demand. The policy requires data centres to construct on-site generation capacity (or battery storage) matching their demand, and the renewables requirement doesn't kick in until six years following the date the data centre starts operating, and doesn't cover all the data centre's demand. My working paper demonstrates that this could imply strong growth in gas demand in the power sector, offsetting all the decline due to climate policies.
 
+![](/assets/images/LEU/1.png)
+
 The paper actually shows that the renewables share of power generation declines because of the policy, because total demand (the denominator) grows much faster than renewables.
 
 I've repeated it many times - renewables are not a stand-alone policy target - they only serve our energy transition if they displace fossil fuels. This policy would lead to a lot more gas use, and a lot more emissions, pushing multiple legally-binding climate targets even further out of reach. My impression was that this message didn't fully get through to all politicians on the committee, and that we will continue to hear in public debate this persistent misunderstanding  that data centres support sustainable energy even when they're building large fossil fuel power stations.
 
-![](/assets/images/LEU/1.png)
+![](/assets/images/LEU/2.png)
 
 ## The enormous scale of the impact
 
 I'm not sure I managed to convey just how large the impacts are, and the scale of how they conflict with climate and energy commitments. Data centres would account for 55% of all Ireland's electricity demand, and use more fossil gas electricity generation than the electricity system is currently using. 5.8 GW is an enormous amount of new demand, and I don't know why more alarm bells are not ringing. I invite you to look at the graphical overview of results from our working paper here to get a sense of the impacts, [here](https://www.esri.ie/sites/default/files/media/file-uploads/2026-06/9.Teresa_UCC-ESRI-MaREI%20seminar.pdf).
+
+![](/assets/images/LEU/3.png)
 
 ## AI good or bad? It doesn't really matter
 
